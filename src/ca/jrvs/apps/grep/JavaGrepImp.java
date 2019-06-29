@@ -1,8 +1,12 @@
 package ca.jrvs.apps.grep;
 
 import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class JavaGrepImp implements JavaGrep{
     private String rootpath;
@@ -12,8 +16,8 @@ public class JavaGrepImp implements JavaGrep{
     @Override
     public void process() throws IOException{
         List<String> matchedLines = new ArrayList<>();
-        for (File file : listFiles(this.getRootPath())){
-            for(String line : readLines(file)){
+        for (File file : lamdalistFiles(this.getRootPath())){
+            for(String line : streamReadLines(file)){
                 if (containsPattern(line)){
                     matchedLines.add(line);
                 }
@@ -37,8 +41,12 @@ writeToFile(matchedLines);
 
         return files;
     }
-
+    //Using and stream API Method 2
+    public List<File> lamdalistFiles(String rootpath) throws IOException {
+        return Files.walk(Paths.get(rootpath)).filter(Files::isRegularFile).map(Path::toFile).collect(Collectors.toList());
+    }
     @Override
+    //Method 1
     public List<String> readLines(File inputFile) {
         if (!inputFile.isFile()){
             throw new IllegalArgumentException("Not a file");
@@ -55,6 +63,11 @@ writeToFile(matchedLines);
         }
 
         return lines;
+    }
+    //Method 2
+    public List<String> streamReadLines(File inputFile) throws IOException{
+        BufferedReader br = new BufferedReader(new FileReader(inputFile));
+        return br.lines().collect(Collectors.toList());
     }
 
     @Override
