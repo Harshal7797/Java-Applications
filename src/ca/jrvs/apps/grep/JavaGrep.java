@@ -3,16 +3,19 @@ package ca.jrvs.apps.grep;
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
+
 public interface JavaGrep {
 
     /**
      * Top level search workflow
+     *
      * @throws IOException
      */
     void process() throws IOException;
 
     /**
      * Traverse a given directory and return all files
+     *
      * @param rootdir input directory
      * @return files under the rootdir
      */
@@ -21,7 +24,7 @@ public interface JavaGrep {
 
     /**
      * Read a file and return all lines
-     *
+     * <p>
      * Explain FileReader, BufferReader, and Character Encoding
      *
      * @param inputFile file to be read
@@ -32,7 +35,8 @@ public interface JavaGrep {
     List<String> readLines(File inputFile);
 
     /**
-     *  check if a line contains the regex patttern (passed by user)
+     * check if a line contains the regex patttern (passed by user)
+     *
      * @param line input stringl
      * @return true if there is a match
      */
@@ -41,8 +45,9 @@ public interface JavaGrep {
 
     /**
      * writes lines to a file
-     *
+     * <p>
      * Explore: FileOutPutStream, OutputStreamWriter, and BufferedWriter
+     *
      * @param lines matched line
      * @throws IOException if write failed
      */
