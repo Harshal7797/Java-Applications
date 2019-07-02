@@ -15,9 +15,6 @@ Root directory path that need searching for your desired keyword.
 ##### outFile
 The output from the result is directed to the file name of your choice and location instead of displaying on terminal.
   
-
-  - explain arguments and behaviour
-  - usage examples
   ## Design and Implementation
   You can talk about the following points
   - Pseudo code and workflow
@@ -50,7 +47,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMyNTA3OTMsLTIwNjQ4NjU0NTIsLT
-E1OTc3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5MzU0MTMsMjc0
-NjkwMzYwLDE4MDk5MTYxOTgsMTA1MTAwMzExMF19
+eyJoaXN0b3J5IjpbOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNT
+k3NzEyMTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5
+MDM2MCwxODA5OTE2MTk4LDEwNTEwMDMxMTBdfQ==
 -->
