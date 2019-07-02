@@ -21,7 +21,8 @@ The output from the result is directed to the file name of your choice and locat
   - Libraries
   - Diagrams
   ## Enhancements and Issues
-  
+  #### Enhancements
+  1. 
   # Java JDBC App
   ## Introduction
   - What does this app do?
@@ -47,8 +48,8 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzEwNzU5Miw5MTU4MTY3NzYsLTIwNj
-Q4NjU0NTIsLTE1OTc3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5
-MzU0MTMsMjc0NjkwMzYwLDE4MDk5MTYxOTgsMTA1MTAwMzExMF
-19
+eyJoaXN0b3J5IjpbLTE0ODAzMTAyNTQsMTU3NzEwNzU5Miw5MT
+U4MTY3NzYsLTIwNjQ4NjU0NTIsLTE1OTc3MTIxMTMsLTE5NzYx
+ODI1MzIsLTEyMzA5MzU0MTMsMjc0NjkwMzYwLDE4MDk5MTYxOT
+gsMTA1MTAwMzExMF19
 -->
