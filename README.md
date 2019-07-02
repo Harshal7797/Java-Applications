@@ -4,7 +4,7 @@
   ## Usage
   To run the following app open up Intellij and click on edit configuration on top left of the IDE and type the argument `.*data.* /home/dev/jrvs/bootcamp/ /tmp/grep.out` in program parameters separated by space.
   ![image](https://user-images.githubusercontent.com/51926543/60534768-90eb9680-9cd0-11e9-839b-b329ef2b90ba.png)
-  It searches all the files in `/home/dev/jrvs/bootcamp/`  directory , sub directory and looks for the key word data and output it to file located in tmp folder with the fine name of `grep.out`,
+  It searches all the files in `/home/dev/jrvs/bootcamp/`  directory , sub directory and looks for the key word data and output it to file located in tmp folder with the fine name of `grep.out`.
   ##### Note: You can also search for different keyword instead of data.
 
   - explain arguments and behaviour
@@ -41,7 +41,7 @@
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzExMTk2NjEsLTE1OTc3MTIxMTMsLT
-E5NzYxODI1MzIsLTEyMzA5MzU0MTMsMjc0NjkwMzYwLDE4MDk5
-MTYxOTgsMTA1MTAwMzExMF19
+eyJoaXN0b3J5IjpbMTAzOTE1ODYxLC0xNTk3NzEyMTEzLC0xOT
+c2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5MDM2MCwxODA5OTE2
+MTk4LDEwNTEwMDMxMTBdfQ==
 -->
