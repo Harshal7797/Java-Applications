@@ -1,7 +1,7 @@
 # Java Grep App
   ## Introduction
   - What does this app do?
-  This app try to mim
+  This app try to mimic Unix command called grep which stands for `global regular expression print`.This appsearches for the pattern 
   ## Usage
   - explain arguments and behaviour
   - usage examples
@@ -37,6 +37,6 @@
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjA4NTM4MCwyNzQ2OTAzNjAsMTgwOT
-kxNjE5OCwxMDUxMDAzMTEwXX0=
+eyJoaXN0b3J5IjpbLTE4Nzk4MjM4MzIsMjc0NjkwMzYwLDE4MD
+k5MTYxOTgsMTA1MTAwMzExMF19
 -->
