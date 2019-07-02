@@ -24,7 +24,7 @@ The output from the result is directed to the file name of your choice and locat
   #### Enhancements
   1. Instead of searing all the files we can specify which file need to be search for example (.txt,. csv etc.), this would eliminate searching for irrelevant files and reduce time complexity.
   2. Implement features like `fgrep` which will search for a fixed string rather than regex pattern. 
-  3. 
+  3.  Output the total matches found just like Google search.
   # Java JDBC App
   ## Introduction
   - What does this app do?
@@ -50,8 +50,9 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODg1NDMxMCwxOTY5NjE2NjIwLDE1Nz
-cxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNTk3NzEy
-MTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5MDM2MC
-wxODA5OTE2MTk4LDEwNTEwMDMxMTBdfQ==
+eyJoaXN0b3J5IjpbLTE3NDIyMTUwNjksLTUyODg1NDMxMCwxOT
+Y5NjE2NjIwLDE1NzcxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1
+NDUyLC0xNTk3NzEyMTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1ND
+EzLDI3NDY5MDM2MCwxODA5OTE2MTk4LDEwNTEwMDMxMTBdfQ==
+
 -->
