@@ -22,7 +22,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
   #### Enhancements
-  1. Instead of searing all the files we can specify which file need to be search this would eliminate searching for irrelevant files and reduce search time.
+  1. Instead of searing all the files we can specify which file need to be search, this would eliminate searching for irrelevant files and reduce time complexity.
   2. 
   # Java JDBC App
   ## Introduction
@@ -49,8 +49,8 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDUxNjc5MTAsMTU3NzEwNzU5Miw5MT
-U4MTY3NzYsLTIwNjQ4NjU0NTIsLTE1OTc3MTIxMTMsLTE5NzYx
-ODI1MzIsLTEyMzA5MzU0MTMsMjc0NjkwMzYwLDE4MDk5MTYxOT
-gsMTA1MTAwMzExMF19
+eyJoaXN0b3J5IjpbMTk2OTYxNjYyMCwxNTc3MTA3NTkyLDkxNT
+gxNjc3NiwtMjA2NDg2NTQ1MiwtMTU5NzcxMjExMywtMTk3NjE4
+MjUzMiwtMTIzMDkzNTQxMywyNzQ2OTAzNjAsMTgwOTkxNjE5OC
+wxMDUxMDAzMTEwXX0=
 -->
