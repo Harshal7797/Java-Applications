@@ -6,7 +6,7 @@
   ![image](https://user-images.githubusercontent.com/51926543/60534768-90eb9680-9cd0-11e9-839b-b329ef2b90ba.png)
   It searches all the files in `/home/dev/jrvs/bootcamp/`  directory , sub directory and looks for the key word data and output it to file located in tmp folder with the fine name of `grep.out`.
   ##### Note: You can also search for different keyword instead of data.
-  ##### For Example: Lets say you have stored your password somewhere in the directory but you do not know where it is.  Instead of opening all the f
+  ##### For Example: Lets say you have stored your password somewhere in the directory but you do not know where it is.  Instead of opening all the file and checking if it is there which is time consuming, we can make use of this such application that will out put the result in milliseconds.
 
   - explain arguments and behaviour
   - usage examples
@@ -42,7 +42,7 @@
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxMjk4MjkwLC0xNTk3NzEyMTEzLC0xOT
-c2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5MDM2MCwxODA5OTE2
-MTk4LDEwNTEwMDMxMTBdfQ==
+eyJoaXN0b3J5IjpbLTQxNDU0MTQ0OCwtMTU5NzcxMjExMywtMT
+k3NjE4MjUzMiwtMTIzMDkzNTQxMywyNzQ2OTAzNjAsMTgwOTkx
+NjE5OCwxMDUxMDAzMTEwXX0=
 -->
