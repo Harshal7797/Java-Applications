@@ -1,6 +1,5 @@
 # Java Grep App
   ## Introduction
-  - What does this app do?
   This app try to mimic Unix command called `grep` which stands for `global regular expression print`.This app searches for the text pattern or regular expression recursively in the given given directory and output the matched  lines to a temp file.
   ## Usage
   - explain arguments and behaviour
@@ -37,6 +36,6 @@
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDAxMDc5NCwyNzQ2OTAzNjAsMTgwOT
-kxNjE5OCwxMDUxMDAzMTEwXX0=
+eyJoaXN0b3J5IjpbNDIxMDE2MTg1LDI3NDY5MDM2MCwxODA5OT
+E2MTk4LDEwNTEwMDMxMTBdfQ==
 -->
