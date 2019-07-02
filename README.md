@@ -30,7 +30,7 @@ The output from the result is directed to the file name of your choice and locat
   - usage examples
   ## Design and Implementation
   You can talk about the following points
-  - Pseudo code and workflow
+  - Ps eudo code and workflow
   - Libraries
   - Diagrams
   ## Enhancements and Issues
@@ -47,7 +47,8 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNT
-k3NzEyMTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5
-MDM2MCwxODA5OTE2MTk4LDEwNTEwMDMxMTBdfQ==
+eyJoaXN0b3J5IjpbMTU3NzEwNzU5Miw5MTU4MTY3NzYsLTIwNj
+Q4NjU0NTIsLTE1OTc3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5
+MzU0MTMsMjc0NjkwMzYwLDE4MDk5MTYxOTgsMTA1MTAwMzExMF
+19
 -->
