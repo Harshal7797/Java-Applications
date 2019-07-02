@@ -25,6 +25,8 @@ The output from the result is directed to the file name of your choice and locat
   1. Instead of searing all the files we can specify which file need to be search for example (.txt,. csv etc.), this would eliminate searching for irrelevant files and reduce time complexity.
   2. Implement features like `fgrep` which will search for a fixed string rather than regex pattern. 
   3.  Output the total matches found just like Google search.
+  #### Issue
+  1. Make sure to close the buffer reader by doing so it releases any system resources associated with it. 
   # Java JDBC App
   ## Introduction
   - What does this app do?
@@ -50,9 +52,9 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIyMTUwNjksLTUyODg1NDMxMCwxOT
-Y5NjE2NjIwLDE1NzcxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1
-NDUyLC0xNTk3NzEyMTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1ND
-EzLDI3NDY5MDM2MCwxODA5OTE2MTk4LDEwNTEwMDMxMTBdfQ==
-
+eyJoaXN0b3J5IjpbLTIwMjAwOTE5MjksLTE3NDIyMTUwNjksLT
+UyODg1NDMxMCwxOTY5NjE2NjIwLDE1NzcxMDc1OTIsOTE1ODE2
+Nzc2LC0yMDY0ODY1NDUyLC0xNTk3NzEyMTEzLC0xOTc2MTgyNT
+MyLC0xMjMwOTM1NDEzLDI3NDY5MDM2MCwxODA5OTE2MTk4LDEw
+NTEwMDMxMTBdfQ==
 -->
