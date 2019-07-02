@@ -1,7 +1,7 @@
 # Java Grep App
   ## Introduction
   - What does this app do?
-  - 
+  
   ## Usage
   - explain arguments and behaviour
   - usage examples
@@ -37,6 +37,6 @@
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk3MTQ5OTcsMTgwOTkxNjE5OCwxMD
-UxMDAzMTEwXX0=
+eyJoaXN0b3J5IjpbMjc0NjkwMzYwLDE4MDk5MTYxOTgsMTA1MT
+AwMzExMF19
 -->
