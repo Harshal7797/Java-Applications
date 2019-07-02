@@ -22,8 +22,8 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
   #### Enhancements
-  1. Instead of searing all the files we can specify which file need to be search, this would eliminate searching for irrelevant files and reduce time complexity.
-  2. 
+  1. Instead of searing all the files we can specify which file need to be search for example (.txt,. csv etc.), this would eliminate searching for irrelevant files and reduce time complexity.
+  2. Implement features like `fgrep` which will search for a fixed string rathen than regex patter
   # Java JDBC App
   ## Introduction
   - What does this app do?
@@ -49,8 +49,8 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTYxNjYyMCwxNTc3MTA3NTkyLDkxNT
-gxNjc3NiwtMjA2NDg2NTQ1MiwtMTU5NzcxMjExMywtMTk3NjE4
-MjUzMiwtMTIzMDkzNTQxMywyNzQ2OTAzNjAsMTgwOTkxNjE5OC
-wxMDUxMDAzMTEwXX0=
+eyJoaXN0b3J5IjpbMTc3Njg5MTU1NSwxOTY5NjE2NjIwLDE1Nz
+cxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNTk3NzEy
+MTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5MDM2MC
+wxODA5OTE2MTk4LDEwNTEwMDMxMTBdfQ==
 -->
