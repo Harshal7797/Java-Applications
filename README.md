@@ -7,7 +7,7 @@
   It searches all the files in `/home/dev/jrvs/bootcamp/`  directory , sub directory and looks for the key word data and output it to file located in tmp folder with the fine name of `grep.out`.
   ##### Note: You can also search for different keyword instead of data.
   ##### For Example: Lets say you have stored your password somewhere in the directory but you do not know where it is. Instead of opening all the file and checking if it is there which is time consuming, we can make use of this such application that will output the result in milliseconds by onlu chnaging the regex pattern to `.*password.*`.
-
+The three armument that are passed are `regex rootPath, outFile`
 ##### regex
 Regex stands for regular expression is a sequence of character that defines search pattern. Usually such pattern are used by String searching algorithm  for "find" or "find and replace" operation on Strings.
 ##### rootPath
@@ -50,7 +50,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTQ3MzIxMiwtMjA2NDg2NTQ1MiwtMT
-U5NzcxMjExMywtMTk3NjE4MjUzMiwtMTIzMDkzNTQxMywyNzQ2
-OTAzNjAsMTgwOTkxNjE5OCwxMDUxMDAzMTEwXX0=
+eyJoaXN0b3J5IjpbLTE2ODMyNTA3OTMsLTIwNjQ4NjU0NTIsLT
+E1OTc3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5MzU0MTMsMjc0
+NjkwMzYwLDE4MDk5MTYxOTgsMTA1MTAwMzExMF19
 -->
