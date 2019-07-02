@@ -13,7 +13,7 @@ Regex stands for regular expression is a sequence of character that defines sear
 ##### rootPath
 Root directory path that need searching for your desired keyword.
 ##### outFile
-The output from the result is directed to the file name of your choice and location.
+The output from the result is directed to the file name of your choice and location instead of displaying on terminal.
   
 
   - explain arguments and behaviour
@@ -50,7 +50,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTQyNzQ2MCwtMjA2NDg2NTQ1MiwtMT
+eyJoaXN0b3J5IjpbMTEwOTQ3MzIxMiwtMjA2NDg2NTQ1MiwtMT
 U5NzcxMjExMywtMTk3NjE4MjUzMiwtMTIzMDkzNTQxMywyNzQ2
 OTAzNjAsMTgwOTkxNjE5OCwxMDUxMDAzMTEwXX0=
 -->
