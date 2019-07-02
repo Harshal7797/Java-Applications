@@ -26,7 +26,7 @@ The output from the result is directed to the file name of your choice and locat
   2. Implement features like `fgrep` which will search for a fixed string rather than regex pattern. 
   3.  Output the total matches found just like Google search.
   #### Issue
-  1. Make sure to close the buffer reader by doing so it releases any system resources associated with it. 
+  1. Make sure to close the buffer reader by doing so it releases any system resources associated with it.  If you do not close the buffer reader 
   # Java JDBC App
   ## Introduction
   - What does this app do?
@@ -52,9 +52,9 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjAwOTE5MjksLTE3NDIyMTUwNjksLT
-UyODg1NDMxMCwxOTY5NjE2NjIwLDE1NzcxMDc1OTIsOTE1ODE2
-Nzc2LC0yMDY0ODY1NDUyLC0xNTk3NzEyMTEzLC0xOTc2MTgyNT
-MyLC0xMjMwOTM1NDEzLDI3NDY5MDM2MCwxODA5OTE2MTk4LDEw
-NTEwMDMxMTBdfQ==
+eyJoaXN0b3J5IjpbLTEwNzU0Mjk0NjEsLTIwMjAwOTE5MjksLT
+E3NDIyMTUwNjksLTUyODg1NDMxMCwxOTY5NjE2NjIwLDE1Nzcx
+MDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNTk3NzEyMT
+EzLC0xOTc2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5MDM2MCwx
+ODA5OTE2MTk4LDEwNTEwMDMxMTBdfQ==
 -->
