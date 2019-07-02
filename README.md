@@ -1,5 +1,18 @@
-# Introduction 
-mmmmkfmkmsdfkds
+# Java Grep App
+  ## Introduction
+  - What does this app do?
+  ## Usage
+  - explain arguments and behaviour
+  - usage examples
+  ## Design and Implementation
+  You can talk about the following points
+  - Pseudo code and workflow
+  - Libraries
+  - Diagrams
+  ## Enhancements and Issues
+  
+  # Java JDBC App
+  # Twitter CLI App
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI1MzQxNjJdfQ==
+eyJoaXN0b3J5IjpbMTA1MTAwMzExMF19
 -->
