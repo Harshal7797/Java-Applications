@@ -2,7 +2,7 @@
   ## Introduction
   This app try to mimic Unix command called `grep` which stands for `global regular expression print`.This app searches for the text pattern or regular expression recursively in the given given directory and output the matched  lines to a temp file.
   ## Usage
-  To run the following app open up Intellij and click on edit configuration on top left of the IDE and type the argument `.*data.* ~/dev/jrvs/bootcamp/ /tmp/grep.out` in program parameters separated by space.
+  To run the following app open up Intellij and click on edit configuration on top left of the IDE and type the argument `.*data.* /home/dev/jrvs/bootcamp/ /tmp/grep.out` in program parameters separated by space.
   ![image](https://user-images.githubusercontent.com/51926543/60534768-90eb9680-9cd0-11e9-839b-b329ef2b90ba.png)
   
 
@@ -40,7 +40,7 @@
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MzkxMTY3LC0xOTc2MTgyNTMyLC0xMj
-MwOTM1NDEzLDI3NDY5MDM2MCwxODA5OTE2MTk4LDEwNTEwMDMx
-MTBdfQ==
+eyJoaXN0b3J5IjpbLTE1OTc3MTIxMTMsLTE5NzYxODI1MzIsLT
+EyMzA5MzU0MTMsMjc0NjkwMzYwLDE4MDk5MTYxOTgsMTA1MTAw
+MzExMF19
 -->
