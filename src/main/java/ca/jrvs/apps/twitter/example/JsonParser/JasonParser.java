@@ -1,11 +1,8 @@
 package ca.jrvs.apps.twitter.example.JsonParser;
 
-import ca.jrvs.apps.twitter.example.JsonParser.dto.Company;
 import ca.jrvs.apps.twitter.example.JsonParser.dto.Dividend;
-import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.sun.org.apache.xpath.internal.operations.Div;
 
 import java.io.File;
 import java.io.IOException;
@@ -44,10 +41,10 @@ public class JasonParser <T> {
     public static <T> T toObjectFromJson(String json, Class clazz)throws IOException{
        try {
            ObjectMapper mapper = new ObjectMapper();
-           Dividend cp = (Dividend) mapper.readValue(json, clazz);
+           T cp = (T) mapper.readValue(json, clazz);
            System.out.println("Printing CP");
            System.out.println(cp);
-           return (T) cp;
+           return cp;
        }catch (IOException e){
            e.printStackTrace();
            throw new RuntimeException(e);
@@ -62,7 +59,7 @@ public class JasonParser <T> {
         dividend.setDeclaredDate("2018-02-01");
         dividend.setAmount(0.63);
         Dividend dividend1=new Dividend();
-        String test= toJson(dividend,true,true);
+        String test = toJson(dividend, false, false);
 
 JasonParser <Dividend>  xx= new JasonParser();
                Dividend xxx =  toObjectFromJson(test,Dividend.class);

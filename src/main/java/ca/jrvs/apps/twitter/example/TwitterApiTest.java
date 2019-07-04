@@ -23,7 +23,7 @@ public class TwitterApiTest {
 
         //create an HTTP GET request
 
-        HttpGet request = new HttpGet("https://api.twitter.com/1.1/users/search.json? q=realDonaldTrump");
+        HttpGet request = new HttpGet("https://api.twitter.com/1.1/users/search.json?q=realDonaldTrump");
 
         //sign the request (add headers)
         consumer.sign(request);
@@ -35,7 +35,7 @@ public class TwitterApiTest {
         //send/execute the request
         HttpClient httpClient = new DefaultHttpClient();
         HttpResponse response = httpClient.execute(request);
-        httpClient.execute(request);
+
 
         System.out.println(EntityUtils.toString(response.getEntity()));
     }
