@@ -7,7 +7,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.IOException;
 
-public class JasonParser <T> {
+public class JasonParser {
 
     /**
      *Convert a java object to JSON string
@@ -61,8 +61,8 @@ public class JasonParser <T> {
         Dividend dividend1=new Dividend();
         String test = toJson(dividend, false, false);
 
-JasonParser <Dividend>  xx= new JasonParser();
-               Dividend xxx =  toObjectFromJson(test,Dividend.class);
+
+        Dividend xxx =  toObjectFromJson(test,Dividend.class);
 
 
     }

@@ -6,6 +6,7 @@ import oauth.signpost.commonshttp.CommonsHttpOAuthConsumer;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
+import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
@@ -22,13 +23,13 @@ public class ApacheHttpHelper implements HttpHelper {
     public HttpResponse httpPost(URI uri) throws Exception {
         OAuthConsumer consumer = new CommonsHttpOAuthConsumer(CONSUMER_KEY, CONSUMER_SECRET);
         consumer.setTokenWithSecret(ACCESS_TOKEN, TOKEN_SECRET);
-        HttpGet request = new HttpGet(uri);
+        HttpPost request = new HttpPost(uri);
         consumer.sign(request);
         System.out.println("HTTP Request Headers: ");
         Arrays.stream(request.getAllHeaders()).forEach(System.out::println);
         //send/execute the request
         HttpClient httpClient = new DefaultHttpClient();
-        return null;
+        return httpClient.execute(request);
     }
 
     @Override
