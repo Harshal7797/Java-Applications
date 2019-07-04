@@ -1,9 +1,11 @@
 package ca.jrvs.apps.twitter.dao;
 
-public interface CrdRepository<T, ID> {
-    T save(T entity);
+import java.net.URISyntaxException;
 
-    T fingById(ID id);
+public interface CrdRepository<T, ID> {
+    T create(T entity);
+
+    T fingById(ID id) throws URISyntaxException, Exception;
 
     T deleteById(ID id);
 }
