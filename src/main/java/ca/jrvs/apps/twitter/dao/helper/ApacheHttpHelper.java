@@ -1,4 +1,4 @@
-package ca.jrvs.apps.twitter.dto.helper;
+package ca.jrvs.apps.twitter.dao.helper;
 
 
 import oauth.signpost.OAuthConsumer;
