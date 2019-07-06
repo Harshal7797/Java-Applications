@@ -8,6 +8,12 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 
 import java.io.IOException;
 public class JsonUtil {
+
+
+    public static String toPrettyJson(Object object) throws JsonProcessingException {
+        return toJson(object, true, false);
+    }
+
     /**
      * Convert a java object to JSON string
      *
@@ -15,10 +21,6 @@ public class JsonUtil {
      * @return JSON String
      * @throws JsonProcessingException
      */
-    public static String toPrettyJson(Object object) throws JsonProcessingException {
-        return toJson(object, true, false);
-    }
-
     public static String toJson(Object object, boolean prettyJson, boolean includeNullValues) throws JsonProcessingException {
         ObjectMapper mapper = new ObjectMapper();
         if (!includeNullValues) {
