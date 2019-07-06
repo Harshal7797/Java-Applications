@@ -7,9 +7,9 @@ import java.net.URI;
 
 public interface HttpHelper {
 
-    org.apache.http.HttpResponse httpPost(URI uri) throws Exception;
+    org.apache.http.HttpResponse httpPost(URI uri);
 
     HttpResponse httpPost(URI uri, StringEntity stringEntity);
 
-    org.apache.http.HttpResponse httpGet(URI uri) throws Exception;
+    org.apache.http.HttpResponse httpGet(URI uri);
 }

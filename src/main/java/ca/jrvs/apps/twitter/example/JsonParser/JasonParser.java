@@ -8,7 +8,6 @@ import java.io.File;
 import java.io.IOException;
 
 public class JasonParser {
-
     /**
      *Convert a java object to JSON string
      * @param object input object
@@ -20,8 +19,8 @@ public class JasonParser {
 
         try{
             ObjectMapper mapper =new ObjectMapper();
-        mapper.writeValue(new File("/home/centos/dev/jrvs/bootcamp/java_apps/result.json"), object);
-        String json= mapper.writeValueAsString(object);
+            mapper.writeValue(new File("/home/centos/dev/jrvs/bootcamp/java_apps/result.json"), object);
+            String json = mapper.writeValueAsString(object);
             return json;
         }catch (IOException x){
             x.printStackTrace();
@@ -39,16 +38,16 @@ public class JasonParser {
      */
 
     public static <T> T toObjectFromJson(String json, Class clazz)throws IOException{
-       try {
-           ObjectMapper mapper = new ObjectMapper();
-           T cp = (T) mapper.readValue(json, clazz);
-           System.out.println("Printing CP");
-           System.out.println(cp);
-           return cp;
-       }catch (IOException e){
-           e.printStackTrace();
-           throw new RuntimeException(e);
-       }
+        try {
+            ObjectMapper mapper = new ObjectMapper();
+            T cp = (T) mapper.readValue(json, clazz);
+            System.out.println("Printing CP");
+            System.out.println(cp);
+            return cp;
+        } catch (IOException e) {
+            e.printStackTrace();
+            throw new RuntimeException(e);
+        }
     }
 
     public static void main(String[] args) throws IOException {
@@ -66,4 +65,5 @@ public class JasonParser {
 
 
     }
-    }
+
+}
