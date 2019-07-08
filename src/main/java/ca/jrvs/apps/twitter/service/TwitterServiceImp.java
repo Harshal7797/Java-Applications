@@ -41,7 +41,7 @@ public class TwitterServiceImp implements TwitterService {
         if (text.toCharArray().length > MAX_TWEET_SIZE || text.isEmpty()) {
             throw new IllegalArgumentException("Not a valid tweet");
         }
-        if (latitude < MIN_LAT || latitude > MAX_LAT || longitude < MIN_LON || longitude < MAX_LON) {
+        if (latitude < MIN_LAT || latitude > MAX_LAT || longitude < MIN_LON || longitude > MAX_LON) {
             throw new IllegalArgumentException("Invalid Latitude or longitude");
         }
         Tweet tweet = new Tweet();
@@ -55,7 +55,7 @@ public class TwitterServiceImp implements TwitterService {
 
     @Override
     public void showTweet(String id, String[] fields) {
-        if (!validID.test(id)) {
+        if (!validID.test(id) || id.isEmpty()) {
             throw new RuntimeException("ID must be numeric");
         }
         try {
