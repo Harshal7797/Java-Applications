@@ -15,6 +15,16 @@ public class Coordinates {
 
     @JsonProperty("type")
     private String type;
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Coordinates)) return false;
+        Coordinates that = (Coordinates) o;
+        return getType().equals(that.getType()) &&
+                getCoordinates().equals(that.getCoordinates());
+    }
+
     @JsonProperty("coordinates")
     private List<Double> coordinates = null;
 
