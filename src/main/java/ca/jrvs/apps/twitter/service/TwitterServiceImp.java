@@ -4,6 +4,8 @@ import ca.jrvs.apps.twitter.dao.CrdRepository;
 import ca.jrvs.apps.twitter.dto.Coordinates;
 import ca.jrvs.apps.twitter.dto.Tweet;
 import jdk.nashorn.internal.runtime.regexp.joni.exception.SyntaxException;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.util.Arrays;
@@ -11,6 +13,8 @@ import java.util.function.Predicate;
 
 import static ca.jrvs.apps.twitter.util.JsonUtil.toPrettyJson;
 
+
+@Service
 public class TwitterServiceImp implements TwitterService {
 
     private final static Double MAX_LAT = 90d;
@@ -21,6 +25,7 @@ public class TwitterServiceImp implements TwitterService {
     private CrdRepository dao;
     private static Predicate<String> validID = (x) -> x.matches("[0-9]+");
 
+    @Autowired
     public TwitterServiceImp(CrdRepository dao) {
         this.dao = dao;
     }

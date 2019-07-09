@@ -1,8 +1,9 @@
 package ca.jrvs.apps.twitter;
 
 import ca.jrvs.apps.twitter.service.TwitterService;
+import org.springframework.stereotype.Component;
 
-
+@Component
 public class TwitterCLIRunner {
     private TwitterService service;
 

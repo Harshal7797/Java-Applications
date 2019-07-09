@@ -5,6 +5,8 @@ import ca.jrvs.apps.twitter.dto.Tweet;
 import ca.jrvs.apps.twitter.util.JsonUtil;
 import org.apache.http.HttpResponse;
 import org.apache.http.util.EntityUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
@@ -13,6 +15,7 @@ import java.net.URISyntaxException;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 
+@Component
 public class TwitterRestDao implements CrdRepository<Tweet, String> {
     //URI constsnt
     private static final String API_BASE_URI = "https://api.twitter.com";
@@ -28,9 +31,11 @@ public class TwitterRestDao implements CrdRepository<Tweet, String> {
 
     private HttpHelper httpHelper;
 
+    @Autowired
     public TwitterRestDao(HttpHelper httpHelper) {
         this.httpHelper = httpHelper;
     }
+
     @Override
     public Tweet create(Tweet tweet) {
         //Construct URI
