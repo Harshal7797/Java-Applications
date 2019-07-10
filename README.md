@@ -1,6 +1,6 @@
 # Java Grep App
   ## Introduction
-  This app tries to mimic Unix command called `grep` which stands for `global regular expression print`.This app searches for the text pattern or regular expression recursively in the given given directory and output the matched  lines to a temp file.
+  This app tries to mimic Unix command called `grep` which stands for `global regular expression print`.This app searches for the text pattern or regular expression recursively in the given directory and output the matched  lines to a temp file.
   ## Usage
   To run the following app open up Intellij and click on edit configuration on top left of the IDE and type the argument `.*data.* /home/dev/jrvs/bootcamp/ /tmp/grep.out` in program parameters separated by space.
   ![image](https://user-images.githubusercontent.com/51926543/60534768-90eb9680-9cd0-11e9-839b-b329ef2b90ba.png)
@@ -54,7 +54,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk1ODgzMjYsLTEwMzQ1NjgyNjYsLT
+eyJoaXN0b3J5IjpbLTE0MDQ4NjA2NDksLTEwMzQ1NjgyNjYsLT
 kyNDExODk0MywtMTgwMDA3Njg1NiwtMTA3NTQyOTQ2MSwtMjAy
 MDA5MTkyOSwtMTc0MjIxNTA2OSwtNTI4ODU0MzEwLDE5Njk2MT
 Y2MjAsMTU3NzEwNzU5Miw5MTU4MTY3NzYsLTIwNjQ4NjU0NTIs
