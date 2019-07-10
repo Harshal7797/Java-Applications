@@ -39,7 +39,7 @@ The output from the result is directed to the file name of your choice and locat
   ## Enhancements and Issues
    #### Enhancements
   1. Use Connection Polling
-  2. 
+  2. Use Stored Procedure
   #### Issue
   7. 
   # Twitter CLI App
@@ -55,11 +55,11 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjMxNzc4NCwtNjA3NzQ5MzI1LC0xOT
-k5Mzk2Njc1LDEyNTc0NzQwNjgsLTEwMzQ1NjgyNjYsLTkyNDEx
-ODk0MywtMTgwMDA3Njg1NiwtMTA3NTQyOTQ2MSwtMjAyMDA5MT
-kyOSwtMTc0MjIxNTA2OSwtNTI4ODU0MzEwLDE5Njk2MTY2MjAs
-MTU3NzEwNzU5Miw5MTU4MTY3NzYsLTIwNjQ4NjU0NTIsLTE1OT
-c3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5MzU0MTMsMjc0Njkw
-MzYwLDE4MDk5MTYxOThdfQ==
+eyJoaXN0b3J5IjpbLTE1NTM1OTQ4MDcsLTYwNzc0OTMyNSwtMT
+k5OTM5NjY3NSwxMjU3NDc0MDY4LC0xMDM0NTY4MjY2LC05MjQx
+MTg5NDMsLTE4MDAwNzY4NTYsLTEwNzU0Mjk0NjEsLTIwMjAwOT
+E5MjksLTE3NDIyMTUwNjksLTUyODg1NDMxMCwxOTY5NjE2NjIw
+LDE1NzcxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNT
+k3NzEyMTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5
+MDM2MCwxODA5OTE2MTk4XX0=
 -->
