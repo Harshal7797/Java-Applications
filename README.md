@@ -38,11 +38,12 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
    #### Enhancements
-  5. Use Connection Polling
-  6. Use Stored Procedure
-  7. 
+  1. Use Connection Polling
+  2. Use Stored Procedure
+  3. Use Statement Polling
+  4. Remove Auto-Commit 
   #### Issue
-  8. The Docker image does not retain database information for the next time I want to work on.  
+  5. The Docker image does not retain database information for the next time I want to work on.  
   # Twitter CLI App
   ## Introduction
   - What does this app do?
@@ -56,11 +57,11 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjE2NjgxMSwtNjA3NzQ5MzI1LC0xOT
-k5Mzk2Njc1LDEyNTc0NzQwNjgsLTEwMzQ1NjgyNjYsLTkyNDEx
-ODk0MywtMTgwMDA3Njg1NiwtMTA3NTQyOTQ2MSwtMjAyMDA5MT
-kyOSwtMTc0MjIxNTA2OSwtNTI4ODU0MzEwLDE5Njk2MTY2MjAs
-MTU3NzEwNzU5Miw5MTU4MTY3NzYsLTIwNjQ4NjU0NTIsLTE1OT
-c3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5MzU0MTMsMjc0Njkw
-MzYwLDE4MDk5MTYxOThdfQ==
+eyJoaXN0b3J5IjpbLTEwODkyMzMzMTAsMTI1MjE2NjgxMSwtNj
+A3NzQ5MzI1LC0xOTk5Mzk2Njc1LDEyNTc0NzQwNjgsLTEwMzQ1
+NjgyNjYsLTkyNDExODk0MywtMTgwMDA3Njg1NiwtMTA3NTQyOT
+Q2MSwtMjAyMDA5MTkyOSwtMTc0MjIxNTA2OSwtNTI4ODU0MzEw
+LDE5Njk2MTY2MjAsMTU3NzEwNzU5Miw5MTU4MTY3NzYsLTIwNj
+Q4NjU0NTIsLTE1OTc3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5
+MzU0MTMsMjc0NjkwMzYwXX0=
 -->
