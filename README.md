@@ -42,7 +42,7 @@ The output from the result is directed to the file name of your choice and locat
   2. Use Stored Procedure
   3. 
   #### Issue
-  4. The Docker does not retain information 
+  4. The Docker does not retain information for the next session to work on.  
   # Twitter CLI App
   ## Introduction
   - What does this app do?
@@ -56,11 +56,11 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg0NTQyODUsLTYwNzc0OTMyNSwtMT
-k5OTM5NjY3NSwxMjU3NDc0MDY4LC0xMDM0NTY4MjY2LC05MjQx
-MTg5NDMsLTE4MDAwNzY4NTYsLTEwNzU0Mjk0NjEsLTIwMjAwOT
-E5MjksLTE3NDIyMTUwNjksLTUyODg1NDMxMCwxOTY5NjE2NjIw
-LDE1NzcxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNT
-k3NzEyMTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5
-MDM2MCwxODA5OTE2MTk4XX0=
+eyJoaXN0b3J5IjpbLTM4NDUzNDM2MSwtNjA3NzQ5MzI1LC0xOT
+k5Mzk2Njc1LDEyNTc0NzQwNjgsLTEwMzQ1NjgyNjYsLTkyNDEx
+ODk0MywtMTgwMDA3Njg1NiwtMTA3NTQyOTQ2MSwtMjAyMDA5MT
+kyOSwtMTc0MjIxNTA2OSwtNTI4ODU0MzEwLDE5Njk2MTY2MjAs
+MTU3NzEwNzU5Miw5MTU4MTY3NzYsLTIwNjQ4NjU0NTIsLTE1OT
+c3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5MzU0MTMsMjc0Njkw
+MzYwLDE4MDk5MTYxOThdfQ==
 -->
