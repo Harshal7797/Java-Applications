@@ -38,11 +38,9 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
    #### Enhancements
-  1. Instead of searching all the files we can specify which file need to be search for example (.txt,. csv etc.), this would eliminate searching for irrelevant files and reduce time complexity.
-  2. Implement features like `fgrep` which will search for a fixed string rather than regex pattern. 
-  3.  Output the total matches found just like Google search.
+  1. 
   #### Issue
-  4. Make sure to close the buffer reader by doing so it releases any system resources associated with it.  If you do not close the buffer reader it may cause memory leak.
+  4. 
   # Twitter CLI App
   ## Introduction
   - What does this app do?
@@ -56,11 +54,11 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA0MDg3NzYsLTE5OTkzOTY2NzUsMT
-I1NzQ3NDA2OCwtMTAzNDU2ODI2NiwtOTI0MTE4OTQzLC0xODAw
-MDc2ODU2LC0xMDc1NDI5NDYxLC0yMDIwMDkxOTI5LC0xNzQyMj
-E1MDY5LC01Mjg4NTQzMTAsMTk2OTYxNjYyMCwxNTc3MTA3NTky
-LDkxNTgxNjc3NiwtMjA2NDg2NTQ1MiwtMTU5NzcxMjExMywtMT
-k3NjE4MjUzMiwtMTIzMDkzNTQxMywyNzQ2OTAzNjAsMTgwOTkx
-NjE5OCwxMDUxMDAzMTEwXX0=
+eyJoaXN0b3J5IjpbLTYwNzc0OTMyNSwtMTk5OTM5NjY3NSwxMj
+U3NDc0MDY4LC0xMDM0NTY4MjY2LC05MjQxMTg5NDMsLTE4MDAw
+NzY4NTYsLTEwNzU0Mjk0NjEsLTIwMjAwOTE5MjksLTE3NDIyMT
+UwNjksLTUyODg1NDMxMCwxOTY5NjE2NjIwLDE1NzcxMDc1OTIs
+OTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNTk3NzEyMTEzLC0xOT
+c2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5MDM2MCwxODA5OTE2
+MTk4LDEwNTEwMDMxMTBdfQ==
 -->
