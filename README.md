@@ -46,6 +46,7 @@ The output from the result is directed to the file name of your choice and locat
   5. The Docker image does not retain database information for the next time I want to work on.  
   # Twitter CLI App
   ## Introduction
+  
   - What does this app do?
   ## Usage
   - explain arguments and behaviour
@@ -57,11 +58,11 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkyMzMzMTAsMTI1MjE2NjgxMSwtNj
-A3NzQ5MzI1LC0xOTk5Mzk2Njc1LDEyNTc0NzQwNjgsLTEwMzQ1
-NjgyNjYsLTkyNDExODk0MywtMTgwMDA3Njg1NiwtMTA3NTQyOT
-Q2MSwtMjAyMDA5MTkyOSwtMTc0MjIxNTA2OSwtNTI4ODU0MzEw
-LDE5Njk2MTY2MjAsMTU3NzEwNzU5Miw5MTU4MTY3NzYsLTIwNj
-Q4NjU0NTIsLTE1OTc3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5
-MzU0MTMsMjc0NjkwMzYwXX0=
+eyJoaXN0b3J5IjpbMTkzOTU1NDI5MiwtMTA4OTIzMzMxMCwxMj
+UyMTY2ODExLC02MDc3NDkzMjUsLTE5OTkzOTY2NzUsMTI1NzQ3
+NDA2OCwtMTAzNDU2ODI2NiwtOTI0MTE4OTQzLC0xODAwMDc2OD
+U2LC0xMDc1NDI5NDYxLC0yMDIwMDkxOTI5LC0xNzQyMjE1MDY5
+LC01Mjg4NTQzMTAsMTk2OTYxNjYyMCwxNTc3MTA3NTkyLDkxNT
+gxNjc3NiwtMjA2NDg2NTQ1MiwtMTU5NzcxMjExMywtMTk3NjE4
+MjUzMiwtMTIzMDkzNTQxM119
 -->
