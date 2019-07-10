@@ -46,7 +46,7 @@ The output from the result is directed to the file name of your choice and locat
   5. The Docker image does not retain database information for the next time I want to work on.  
   # Twitter CLI App
   ## Introduction
-  This application allows you to create, read and delete tweets on Twitter from terminal. This is similar to the postman app that uses `HTTP GET`,`HTTP POST`  to get information is JSON String with limited feature. 
+  This application allows you to create, read and delete tweets on Twitter from terminal. This is similar to the postman app that uses `HTTP GET`,`HTTP POST`  to get information is JSON String .THis  
   - What does this app do?
   ## Usage
   - explain arguments and behaviour
@@ -58,11 +58,11 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE5ODU0NywtMTI2NzkzMjQwNCwtMT
-A4OTIzMzMxMCwxMjUyMTY2ODExLC02MDc3NDkzMjUsLTE5OTkz
-OTY2NzUsMTI1NzQ3NDA2OCwtMTAzNDU2ODI2NiwtOTI0MTE4OT
-QzLC0xODAwMDc2ODU2LC0xMDc1NDI5NDYxLC0yMDIwMDkxOTI5
-LC0xNzQyMjE1MDY5LC01Mjg4NTQzMTAsMTk2OTYxNjYyMCwxNT
-c3MTA3NTkyLDkxNTgxNjc3NiwtMjA2NDg2NTQ1MiwtMTU5Nzcx
-MjExMywtMTk3NjE4MjUzMl19
+eyJoaXN0b3J5IjpbMjkyODQzMjE1LC0xMjY3OTMyNDA0LC0xMD
+g5MjMzMzEwLDEyNTIxNjY4MTEsLTYwNzc0OTMyNSwtMTk5OTM5
+NjY3NSwxMjU3NDc0MDY4LC0xMDM0NTY4MjY2LC05MjQxMTg5ND
+MsLTE4MDAwNzY4NTYsLTEwNzU0Mjk0NjEsLTIwMjAwOTE5Mjks
+LTE3NDIyMTUwNjksLTUyODg1NDMxMCwxOTY5NjE2NjIwLDE1Nz
+cxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNTk3NzEy
+MTEzLC0xOTc2MTgyNTMyXX0=
 -->
