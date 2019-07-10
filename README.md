@@ -38,11 +38,11 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
    #### Enhancements
-  1. Use Connection Polling
-  2. Use Stored Procedure
-  3. 
+  5. Use Connection Polling
+  6. Use Stored Procedure
+  7. 
   #### Issue
-  4. The Docker does not retain information for the next session to work on.  
+  8. The Docker image does not retain database information for the next time I want to work on.  
   # Twitter CLI App
   ## Introduction
   - What does this app do?
@@ -56,7 +56,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDUzNDM2MSwtNjA3NzQ5MzI1LC0xOT
+eyJoaXN0b3J5IjpbMTI1MjE2NjgxMSwtNjA3NzQ5MzI1LC0xOT
 k5Mzk2Njc1LDEyNTc0NzQwNjgsLTEwMzQ1NjgyNjYsLTkyNDEx
 ODk0MywtMTgwMDA3Njg1NiwtMTA3NTQyOTQ2MSwtMjAyMDA5MT
 kyOSwtMTc0MjIxNTA2OSwtNTI4ODU0MzEwLDE5Njk2MTY2MjAs
