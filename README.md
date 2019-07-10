@@ -1,6 +1,6 @@
 # Java Grep App
   ## Introduction
-  This app try to mimic Unix command called `grep` which stands for `global regular expression print`.This app searches for the text pattern or regular expression recursively in the given given directory and output the matched  lines to a temp file.
+  This app tries to mimic Unix command called `grep` which stands for `global regular expression print`.This app searches for the text pattern or regular expression recursively in the given given directory and output the matched  lines to a temp file.
   ## Usage
   To run the following app open up Intellij and click on edit configuration on top left of the IDE and type the argument `.*data.* /home/dev/jrvs/bootcamp/ /tmp/grep.out` in program parameters separated by space.
   ![image](https://user-images.githubusercontent.com/51926543/60534768-90eb9680-9cd0-11e9-839b-b329ef2b90ba.png)
@@ -22,7 +22,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
   #### Enhancements
-  1. Instead of searing all the files we can specify which file need to be search for example (.txt,. csv etc.), this would eliminate searching for irrelevant files and reduce time complexity.
+  1. Instead of searching all the files we can specify which file need to be search for example (.txt,. csv etc.), this would eliminate searching for irrelevant files and reduce time complexity.
   2. Implement features like `fgrep` which will search for a fixed string rather than regex pattern. 
   3.  Output the total matches found just like Google search.
   #### Issue
@@ -52,9 +52,10 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAwNzY4NTYsLTEwNzU0Mjk0NjEsLT
-IwMjAwOTE5MjksLTE3NDIyMTUwNjksLTUyODg1NDMxMCwxOTY5
-NjE2NjIwLDE1NzcxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1ND
-UyLC0xNTk3NzEyMTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1NDEz
-LDI3NDY5MDM2MCwxODA5OTE2MTk4LDEwNTEwMDMxMTBdfQ==
+eyJoaXN0b3J5IjpbLTkyNDExODk0MywtMTgwMDA3Njg1NiwtMT
+A3NTQyOTQ2MSwtMjAyMDA5MTkyOSwtMTc0MjIxNTA2OSwtNTI4
+ODU0MzEwLDE5Njk2MTY2MjAsMTU3NzEwNzU5Miw5MTU4MTY3Nz
+YsLTIwNjQ4NjU0NTIsLTE1OTc3MTIxMTMsLTE5NzYxODI1MzIs
+LTEyMzA5MzU0MTMsMjc0NjkwMzYwLDE4MDk5MTYxOTgsMTA1MT
+AwMzExMF19
 -->
