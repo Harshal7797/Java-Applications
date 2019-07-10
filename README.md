@@ -56,19 +56,17 @@ The output from the result is directed to the file name of your choice and locat
   - Pseudo code and workflow
   - Libraries
   - Diagrams
-  ## Enhancements and Issues
-  #### Enhancements
+  ## Enhancements 
   10. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
   11. 
 
-  #### Issue
-  12. The Docker image does not retain database information for the next time I want to 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTQ2OTI2OCwtMTQ1NjI5MTk5Niw2ND
-k0ODI1MTcsLTEyNjc5MzI0MDQsLTEwODkyMzMzMTAsMTI1MjE2
-NjgxMSwtNjA3NzQ5MzI1LC0xOTk5Mzk2Njc1LDEyNTc0NzQwNj
-gsLTEwMzQ1NjgyNjYsLTkyNDExODk0MywtMTgwMDA3Njg1Niwt
-MTA3NTQyOTQ2MSwtMjAyMDA5MTkyOSwtMTc0MjIxNTA2OSwtNT
-I4ODU0MzEwLDE5Njk2MTY2MjAsMTU3NzEwNzU5Miw5MTU4MTY3
-NzYsLTIwNjQ4NjU0NTJdfQ==
+eyJoaXN0b3J5IjpbLTE0MDY1ODc0OTgsLTM3MTQ2OTI2OCwtMT
+Q1NjI5MTk5Niw2NDk0ODI1MTcsLTEyNjc5MzI0MDQsLTEwODky
+MzMzMTAsMTI1MjE2NjgxMSwtNjA3NzQ5MzI1LC0xOTk5Mzk2Nj
+c1LDEyNTc0NzQwNjgsLTEwMzQ1NjgyNjYsLTkyNDExODk0Mywt
+MTgwMDA3Njg1NiwtMTA3NTQyOTQ2MSwtMjAyMDA5MTkyOSwtMT
+c0MjIxNTA2OSwtNTI4ODU0MzEwLDE5Njk2MTY2MjAsMTU3NzEw
+NzU5Miw5MTU4MTY3NzZdfQ==
 -->
