@@ -38,12 +38,12 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
    #### Enhancements
-  5. Use Connection Polling
-  6. Use Stored Procedure
-  7. Use Statement Polling
-  8. Remove Auto-Commit 
+  1. Use Connection Polling
+  2. Use Stored Procedure
+  3. Use Statement Polling
+  4. Remove Auto-Commit 
   #### Issue
-  9. The Docker image does not retain database information for the next time I want to work on.  
+  5. The Docker image does not retain database information for the next time I want to work on.  
   # Twitter CLI App
   ## Introduction
   This application allows you to create, read and delete tweets on Twitter from terminal. This is similar to the postman app that uses `HTTP GET`,`HTTP POST`  to get information is JSON String . Twitter CLI app has three main features that user uses most of the time in real world. 
@@ -57,17 +57,17 @@ The output from the result is directed to the file name of your choice and locat
   - Libraries
   - Diagrams
   ## Enhancements 
-  10. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
-  11. Support search History.
-  12.  Print out user define selected field from Tweet Object.
+  1. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
+  2. Support search History.
+  3.  Print out user define selected field from Tweet Object.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTg0ODIwOCw3OTIwMjU3NDQsMTczMj
-E5Mzk1NiwtMTQwNjU4NzQ5OCwtMzcxNDY5MjY4LC0xNDU2Mjkx
-OTk2LDY0OTQ4MjUxNywtMTI2NzkzMjQwNCwtMTA4OTIzMzMxMC
-wxMjUyMTY2ODExLC02MDc3NDkzMjUsLTE5OTkzOTY2NzUsMTI1
-NzQ3NDA2OCwtMTAzNDU2ODI2NiwtOTI0MTE4OTQzLC0xODAwMD
-c2ODU2LC0xMDc1NDI5NDYxLC0yMDIwMDkxOTI5LC0xNzQyMjE1
-MDY5LC01Mjg4NTQzMTBdfQ==
+eyJoaXN0b3J5IjpbOTI2OTA0NzkwLDEzODk4NDgyMDgsNzkyMD
+I1NzQ0LDE3MzIxOTM5NTYsLTE0MDY1ODc0OTgsLTM3MTQ2OTI2
+OCwtMTQ1NjI5MTk5Niw2NDk0ODI1MTcsLTEyNjc5MzI0MDQsLT
+EwODkyMzMzMTAsMTI1MjE2NjgxMSwtNjA3NzQ5MzI1LC0xOTk5
+Mzk2Njc1LDEyNTc0NzQwNjgsLTEwMzQ1NjgyNjYsLTkyNDExOD
+k0MywtMTgwMDA3Njg1NiwtMTA3NTQyOTQ2MSwtMjAyMDA5MTky
+OSwtMTc0MjIxNTA2OV19
 -->
