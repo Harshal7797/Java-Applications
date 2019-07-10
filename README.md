@@ -37,6 +37,12 @@ The output from the result is directed to the file name of your choice and locat
   - Libraries
   - Diagrams
   ## Enhancements and Issues
+   #### Enhancements
+  1. Instead of searching all the files we can specify which file need to be search for example (.txt,. csv etc.), this would eliminate searching for irrelevant files and reduce time complexity.
+  2. Implement features like `fgrep` which will search for a fixed string rather than regex pattern. 
+  3.  Output the total matches found just like Google search.
+  #### Issue
+  4. Make sure to close the buffer reader by doing so it releases any system resources associated with it.  If you do not close the buffer reader it may cause memory leak.
   # Twitter CLI App
   ## Introduction
   - What does this app do?
@@ -50,7 +56,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk0ODkzNDIsLTE5OTkzOTY2NzUsMT
+eyJoaXN0b3J5IjpbLTE1MjA0MDg3NzYsLTE5OTkzOTY2NzUsMT
 I1NzQ3NDA2OCwtMTAzNDU2ODI2NiwtOTI0MTE4OTQzLC0xODAw
 MDc2ODU2LC0xMDc1NDI5NDYxLC0yMDIwMDkxOTI5LC0xNzQyMj
 E1MDY5LC01Mjg4NTQzMTAsMTk2OTYxNjYyMCwxNTc3MTA3NTky
