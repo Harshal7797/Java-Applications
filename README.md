@@ -38,9 +38,10 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
    #### Enhancements
-  1. 
+  1. Use Connection Polling
+  2. 
   #### Issue
-  4. 
+  7. 
   # Twitter CLI App
   ## Introduction
   - What does this app do?
@@ -54,11 +55,11 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzc0OTMyNSwtMTk5OTM5NjY3NSwxMj
-U3NDc0MDY4LC0xMDM0NTY4MjY2LC05MjQxMTg5NDMsLTE4MDAw
-NzY4NTYsLTEwNzU0Mjk0NjEsLTIwMjAwOTE5MjksLTE3NDIyMT
-UwNjksLTUyODg1NDMxMCwxOTY5NjE2NjIwLDE1NzcxMDc1OTIs
-OTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNTk3NzEyMTEzLC0xOT
-c2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5MDM2MCwxODA5OTE2
-MTk4LDEwNTEwMDMxMTBdfQ==
+eyJoaXN0b3J5IjpbMTk0NjMxNzc4NCwtNjA3NzQ5MzI1LC0xOT
+k5Mzk2Njc1LDEyNTc0NzQwNjgsLTEwMzQ1NjgyNjYsLTkyNDEx
+ODk0MywtMTgwMDA3Njg1NiwtMTA3NTQyOTQ2MSwtMjAyMDA5MT
+kyOSwtMTc0MjIxNTA2OSwtNTI4ODU0MzEwLDE5Njk2MTY2MjAs
+MTU3NzEwNzU5Miw5MTU4MTY3NzYsLTIwNjQ4NjU0NTIsLTE1OT
+c3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5MzU0MTMsMjc0Njkw
+MzYwLDE4MDk5MTYxOThdfQ==
 -->
