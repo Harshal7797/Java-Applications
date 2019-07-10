@@ -30,7 +30,7 @@ The output from the result is directed to the file name of your choice and locat
   
   # Java JDBC App
   ## Introduction
-  
+  JDBC stands for Java Database Connectivity. This JDBC app uses Java API to connec
   - What does this app do?
   ## Usage
   - explain arguments and behaviour
@@ -54,7 +54,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMTA0NzEyLC0xMDM0NTY4MjY2LC05Mj
+eyJoaXN0b3J5IjpbNDk1MTM2MzQyLC0xMDM0NTY4MjY2LC05Mj
 QxMTg5NDMsLTE4MDAwNzY4NTYsLTEwNzU0Mjk0NjEsLTIwMjAw
 OTE5MjksLTE3NDIyMTUwNjksLTUyODg1NDMxMCwxOTY5NjE2Nj
 IwLDE1NzcxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0x
