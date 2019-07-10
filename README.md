@@ -46,7 +46,7 @@ The output from the result is directed to the file name of your choice and locat
   5. The Docker image does not retain database information for the next time I want to work on.  
   # Twitter CLI App
   ## Introduction
-  This application allows you to create, read and delete tweets on Twitter from terminal. This is similar to the postman app that uses `HTTP GET`,`HTTP POST`  to get information is JSON String .THis  
+  This application allows you to create, read and delete tweets on Twitter from terminal. This is similar to the postman app that uses `HTTP GET`,`HTTP POST`  to get information is JSON String . Twitter CLI app has three main features that user uses most of the time.  
   - What does this app do?
   ## Usage
   - explain arguments and behaviour
@@ -58,7 +58,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyODQzMjE1LC0xMjY3OTMyNDA0LC0xMD
+eyJoaXN0b3J5IjpbNjQ5NDgyNTE3LC0xMjY3OTMyNDA0LC0xMD
 g5MjMzMzEwLDEyNTIxNjY4MTEsLTYwNzc0OTMyNSwtMTk5OTM5
 NjY3NSwxMjU3NDc0MDY4LC0xMDM0NTY4MjY2LC05MjQxMTg5ND
 MsLTE4MDAwNzY4NTYsLTEwNzU0Mjk0NjEsLTIwMjAwOTE5Mjks
