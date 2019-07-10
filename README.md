@@ -41,7 +41,7 @@ The output from the result is directed to the file name of your choice and locat
   1. Use Connection Polling
   2. Use Stored Procedure
   #### Issue
-  7. This project was conducted on Google Cloud platform 
+  7. The database does not retain information 
   # Twitter CLI App
   ## Introduction
   - What does this app do?
@@ -55,11 +55,11 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkxMzI4NTYsLTYwNzc0OTMyNSwtMT
-k5OTM5NjY3NSwxMjU3NDc0MDY4LC0xMDM0NTY4MjY2LC05MjQx
-MTg5NDMsLTE4MDAwNzY4NTYsLTEwNzU0Mjk0NjEsLTIwMjAwOT
-E5MjksLTE3NDIyMTUwNjksLTUyODg1NDMxMCwxOTY5NjE2NjIw
-LDE1NzcxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0xNT
-k3NzEyMTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1NDEzLDI3NDY5
-MDM2MCwxODA5OTE2MTk4XX0=
+eyJoaXN0b3J5IjpbLTE2ODU4NTA2LC02MDc3NDkzMjUsLTE5OT
+kzOTY2NzUsMTI1NzQ3NDA2OCwtMTAzNDU2ODI2NiwtOTI0MTE4
+OTQzLC0xODAwMDc2ODU2LC0xMDc1NDI5NDYxLC0yMDIwMDkxOT
+I5LC0xNzQyMjE1MDY5LC01Mjg4NTQzMTAsMTk2OTYxNjYyMCwx
+NTc3MTA3NTkyLDkxNTgxNjc3NiwtMjA2NDg2NTQ1MiwtMTU5Nz
+cxMjExMywtMTk3NjE4MjUzMiwtMTIzMDkzNTQxMywyNzQ2OTAz
+NjAsMTgwOTkxNjE5OF19
 -->
