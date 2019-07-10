@@ -59,15 +59,15 @@ The output from the result is directed to the file name of your choice and locat
   ## Enhancements 
   10. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
   11. Support search History.
-  12. 
+  12.  Print out user define selected field from Tweet Object.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMDI1NzQ0LDE3MzIxOTM5NTYsLTE0MD
-Y1ODc0OTgsLTM3MTQ2OTI2OCwtMTQ1NjI5MTk5Niw2NDk0ODI1
-MTcsLTEyNjc5MzI0MDQsLTEwODkyMzMzMTAsMTI1MjE2NjgxMS
-wtNjA3NzQ5MzI1LC0xOTk5Mzk2Njc1LDEyNTc0NzQwNjgsLTEw
-MzQ1NjgyNjYsLTkyNDExODk0MywtMTgwMDA3Njg1NiwtMTA3NT
-QyOTQ2MSwtMjAyMDA5MTkyOSwtMTc0MjIxNTA2OSwtNTI4ODU0
-MzEwLDE5Njk2MTY2MjBdfQ==
+eyJoaXN0b3J5IjpbMTM4OTg0ODIwOCw3OTIwMjU3NDQsMTczMj
+E5Mzk1NiwtMTQwNjU4NzQ5OCwtMzcxNDY5MjY4LC0xNDU2Mjkx
+OTk2LDY0OTQ4MjUxNywtMTI2NzkzMjQwNCwtMTA4OTIzMzMxMC
+wxMjUyMTY2ODExLC02MDc3NDkzMjUsLTE5OTkzOTY2NzUsMTI1
+NzQ3NDA2OCwtMTAzNDU2ODI2NiwtOTI0MTE4OTQzLC0xODAwMD
+c2ODU2LC0xMDc1NDI5NDYxLC0yMDIwMDkxOTI5LC0xNzQyMjE1
+MDY5LC01Mjg4NTQzMTBdfQ==
 -->
