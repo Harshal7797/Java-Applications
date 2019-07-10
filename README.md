@@ -41,7 +41,7 @@ The output from the result is directed to the file name of your choice and locat
   1. Use Connection Polling
   2. Use Stored Procedure
   #### Issue
-  7. 
+  7. This project was conducted on Google Cloud platform 
   # Twitter CLI App
   ## Introduction
   - What does this app do?
@@ -55,7 +55,7 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM1OTQ4MDcsLTYwNzc0OTMyNSwtMT
+eyJoaXN0b3J5IjpbLTEzNjkxMzI4NTYsLTYwNzc0OTMyNSwtMT
 k5OTM5NjY3NSwxMjU3NDc0MDY4LC0xMDM0NTY4MjY2LC05MjQx
 MTg5NDMsLTE4MDAwNzY4NTYsLTEwNzU0Mjk0NjEsLTIwMjAwOT
 E5MjksLTE3NDIyMTUwNjksLTUyODg1NDMxMCwxOTY5NjE2NjIw
