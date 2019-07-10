@@ -30,7 +30,7 @@ The output from the result is directed to the file name of your choice and locat
   
   # Java JDBC App
   ## Introduction
-  JDBC stands for Java Database Connectivity. This JDBC app uses Java API to connec
+  JDBC stands for Java Database Connectivity. This JDBC app uses Java API to connect and execute the query with the database. JDBC API uses JDBC driver to connect with database.
   - What does this app do?
   ## Usage
   - explain arguments and behaviour
@@ -54,10 +54,10 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1MTM2MzQyLC0xMDM0NTY4MjY2LC05Mj
-QxMTg5NDMsLTE4MDAwNzY4NTYsLTEwNzU0Mjk0NjEsLTIwMjAw
-OTE5MjksLTE3NDIyMTUwNjksLTUyODg1NDMxMCwxOTY5NjE2Nj
-IwLDE1NzcxMDc1OTIsOTE1ODE2Nzc2LC0yMDY0ODY1NDUyLC0x
-NTk3NzEyMTEzLC0xOTc2MTgyNTMyLC0xMjMwOTM1NDEzLDI3ND
-Y5MDM2MCwxODA5OTE2MTk4LDEwNTEwMDMxMTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQwNjA0NDksLTEwMzQ1NjgyNjYsLT
+kyNDExODk0MywtMTgwMDA3Njg1NiwtMTA3NTQyOTQ2MSwtMjAy
+MDA5MTkyOSwtMTc0MjIxNTA2OSwtNTI4ODU0MzEwLDE5Njk2MT
+Y2MjAsMTU3NzEwNzU5Miw5MTU4MTY3NzYsLTIwNjQ4NjU0NTIs
+LTE1OTc3MTIxMTMsLTE5NzYxODI1MzIsLTEyMzA5MzU0MTMsMj
+c0NjkwMzYwLDE4MDk5MTYxOTgsMTA1MTAwMzExMF19
 -->
