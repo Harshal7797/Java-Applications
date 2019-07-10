@@ -46,7 +46,7 @@ The output from the result is directed to the file name of your choice and locat
   5. The Docker image does not retain database information for the next time I want to work on.  
   # Twitter CLI App
   ## Introduction
-  This application allows you to create, read and delete tweets from terminal. 
+  This application allows you to create, read and delete tweets on Twitter from terminal. This is similar to the postman app with limited 
   - What does this app do?
   ## Usage
   - explain arguments and behaviour
@@ -58,11 +58,11 @@ The output from the result is directed to the file name of your choice and locat
   - Diagrams
   ## Enhancements and Issues
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc5MzI0MDQsLTEwODkyMzMzMTAsMT
-I1MjE2NjgxMSwtNjA3NzQ5MzI1LC0xOTk5Mzk2Njc1LDEyNTc0
-NzQwNjgsLTEwMzQ1NjgyNjYsLTkyNDExODk0MywtMTgwMDA3Nj
-g1NiwtMTA3NTQyOTQ2MSwtMjAyMDA5MTkyOSwtMTc0MjIxNTA2
-OSwtNTI4ODU0MzEwLDE5Njk2MTY2MjAsMTU3NzEwNzU5Miw5MT
-U4MTY3NzYsLTIwNjQ4NjU0NTIsLTE1OTc3MTIxMTMsLTE5NzYx
-ODI1MzIsLTEyMzA5MzU0MTNdfQ==
+eyJoaXN0b3J5IjpbLTExNjg5NzAxOCwtMTI2NzkzMjQwNCwtMT
+A4OTIzMzMxMCwxMjUyMTY2ODExLC02MDc3NDkzMjUsLTE5OTkz
+OTY2NzUsMTI1NzQ3NDA2OCwtMTAzNDU2ODI2NiwtOTI0MTE4OT
+QzLC0xODAwMDc2ODU2LC0xMDc1NDI5NDYxLC0yMDIwMDkxOTI5
+LC0xNzQyMjE1MDY5LC01Mjg4NTQzMTAsMTk2OTYxNjYyMCwxNT
+c3MTA3NTkyLDkxNTgxNjc3NiwtMjA2NDg2NTQ1MiwtMTU5Nzcx
+MjExMywtMTk3NjE4MjUzMl19
 -->
