@@ -58,8 +58,11 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   ![image](https://user-images.githubusercontent.com/51926543/61077272-07347b00-a3ec-11e9-91b2-7b22d6aa5388.png)
 
 1.`HttpHelper` 
-Making HTTP request (GET/PUT/DELETE) and handle authentication
-2.
+Making HTTP request `GET/PUT/DELETE` and handle authentication
+2. `DAO`
+Data Access Object Which handles tweet object. `DAO` depends on `HttpHelper`
+3. `Service`
+
   ## Enhancements 
   1. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
   2. Support search History.
@@ -67,11 +70,11 @@ Making HTTP request (GET/PUT/DELETE) and handle authentication
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzY2MTE5MiwtMTg0NDc1MzQyMiwtNT
-M4NDU5NDQ4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3
-NDIsLTY4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMz
-g5ODQ4MjA4LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC0xNDA2NTg3
-NDk4LC0zNzE0NjkyNjgsLTE0NTYyOTE5OTYsNjQ5NDgyNTE3LC
-0xMjY3OTMyNDA0LC0xMDg5MjMzMzEwLDEyNTIxNjY4MTEsLTYw
-Nzc0OTMyNV19
+eyJoaXN0b3J5IjpbLTEwOTUzNjQzNTAsLTE4NDQ3NTM0MjIsLT
+UzODQ1OTQ0OCwtMTY2MjkzMzUyLDc2NTkwMTc5MCwxNTA2Nzgy
+NzQyLC02ODMwMjMzMiwtMjAxOTUyNTQ0NCw5MjY5MDQ3OTAsMT
+M4OTg0ODIwOCw3OTIwMjU3NDQsMTczMjE5Mzk1NiwtMTQwNjU4
+NzQ5OCwtMzcxNDY5MjY4LC0xNDU2MjkxOTk2LDY0OTQ4MjUxNy
+wtMTI2NzkzMjQwNCwtMTA4OTIzMzMxMCwxMjUyMTY2ODExLC02
+MDc3NDkzMjVdfQ==
 -->
