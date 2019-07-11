@@ -53,10 +53,9 @@ The output from the result is directed to the file name of your choice and locat
   - explain arguments and behaviour
   - usage examples
   ## Design and Implementation
-  You can talk about the following points
-  - Pseudo code and workflow
-  - Libraries
-  - Diagrams
+  Twitter Application Workflow
+  ![image](https://user-images.githubusercontent.com/51926543/61074879-bcfccb00-a3e6-11e9-83bc-4741447efa00.png)
+
   ## Enhancements 
   1. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
   2. Support search History.
@@ -64,11 +63,11 @@ The output from the result is directed to the file name of your choice and locat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1OTAxNzkwLDE1MDY3ODI3NDIsLTY4Mz
-AyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMzg5ODQ4MjA4
-LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC0xNDA2NTg3NDk4LC0zNz
-E0NjkyNjgsLTE0NTYyOTE5OTYsNjQ5NDgyNTE3LC0xMjY3OTMy
-NDA0LC0xMDg5MjMzMzEwLDEyNTIxNjY4MTEsLTYwNzc0OTMyNS
-wtMTk5OTM5NjY3NSwxMjU3NDc0MDY4LC0xMDM0NTY4MjY2LC05
-MjQxMTg5NDNdfQ==
+eyJoaXN0b3J5IjpbLTE3MzkwMDQwNDAsNzY1OTAxNzkwLDE1MD
+Y3ODI3NDIsLTY4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5
+MCwxMzg5ODQ4MjA4LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC0xND
+A2NTg3NDk4LC0zNzE0NjkyNjgsLTE0NTYyOTE5OTYsNjQ5NDgy
+NTE3LC0xMjY3OTMyNDA0LC0xMDg5MjMzMzEwLDEyNTIxNjY4MT
+EsLTYwNzc0OTMyNSwtMTk5OTM5NjY3NSwxMjU3NDc0MDY4LC0x
+MDM0NTY4MjY2XX0=
 -->
