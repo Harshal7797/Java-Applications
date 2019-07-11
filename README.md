@@ -35,7 +35,7 @@ The output from the result is directed to the file name of your choice and locat
   ![image](https://user-images.githubusercontent.com/51926543/61072310-03e7c200-a3e1-11e9-96e4-49b3d74cb9bd.png)
   
   Basic Java Application Workflow
-  ![image](https://user-images.githubusercontent.com/51926543/61073755-1b747a00-a3e4-11e9-8f17-6b8c654e9579.png)
+ ![image](https://user-images.githubusercontent.com/51926543/61073755-1b747a00-a3e4-11e9-8f17-6b8c654e9579.png)
 
   ## Enhancements and Issues
    #### Enhancements
@@ -64,11 +64,11 @@ The output from the result is directed to the file name of your choice and locat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjc4Mjc0MiwtNjgzMDIzMzIsLTIwMT
-k1MjU0NDQsOTI2OTA0NzkwLDEzODk4NDgyMDgsNzkyMDI1NzQ0
-LDE3MzIxOTM5NTYsLTE0MDY1ODc0OTgsLTM3MTQ2OTI2OCwtMT
-Q1NjI5MTk5Niw2NDk0ODI1MTcsLTEyNjc5MzI0MDQsLTEwODky
-MzMzMTAsMTI1MjE2NjgxMSwtNjA3NzQ5MzI1LC0xOTk5Mzk2Nj
-c1LDEyNTc0NzQwNjgsLTEwMzQ1NjgyNjYsLTkyNDExODk0Mywt
-MTgwMDA3Njg1Nl19
+eyJoaXN0b3J5IjpbNzY1OTAxNzkwLDE1MDY3ODI3NDIsLTY4Mz
+AyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMzg5ODQ4MjA4
+LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC0xNDA2NTg3NDk4LC0zNz
+E0NjkyNjgsLTE0NTYyOTE5OTYsNjQ5NDgyNTE3LC0xMjY3OTMy
+NDA0LC0xMDg5MjMzMzEwLDEyNTIxNjY4MTEsLTYwNzc0OTMyNS
+wtMTk5OTM5NjY3NSwxMjU3NDc0MDY4LC0xMDM0NTY4MjY2LC05
+MjQxMTg5NDNdfQ==
 -->
