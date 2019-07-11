@@ -59,12 +59,16 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
 
 1.`HttpHelper` 
 Making HTTP request `GET/PUT/DELETE` and handle authentication
+
 2. `TwitterRestDAO`
 Data Access Object Which handles tweet object. `DAO` depends on `HttpHelper`
+
 3. `Twitter Service`
 Manipulate twitter object according to application requirement.  This component is knows as Business logic.
+
 4. `TwitterCLIRunner`
 Parse user CLI inputs and then calls the corresponding service methods.
+
 5. `TwitterCLI (Main)`
 Create above components and start applications.
   ## Enhancements 
@@ -74,11 +78,11 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ1Mjg3NiwtNzM0NDY5NDIyLDE1OD
-c4MTU5NjEsLTE4NDQ3NTM0MjIsLTUzODQ1OTQ0OCwtMTY2Mjkz
-MzUyLDc2NTkwMTc5MCwxNTA2NzgyNzQyLC02ODMwMjMzMiwtMj
-AxOTUyNTQ0NCw5MjY5MDQ3OTAsMTM4OTg0ODIwOCw3OTIwMjU3
-NDQsMTczMjE5Mzk1NiwtMTQwNjU4NzQ5OCwtMzcxNDY5MjY4LC
-0xNDU2MjkxOTk2LDY0OTQ4MjUxNywtMTI2NzkzMjQwNCwtMTA4
-OTIzMzMxMF19
+eyJoaXN0b3J5IjpbMTg1MTAxODk2OCwtMTc2NDUyODc2LC03Mz
+Q0Njk0MjIsMTU4NzgxNTk2MSwtMTg0NDc1MzQyMiwtNTM4NDU5
+NDQ4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3NDIsLT
+Y4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMzg5ODQ4
+MjA4LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC0xNDA2NTg3NDk4LC
+0zNzE0NjkyNjgsLTE0NTYyOTE5OTYsNjQ5NDgyNTE3LC0xMjY3
+OTMyNDA0XX0=
 -->
