@@ -54,7 +54,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   ## Usage
   1. `Show Tweet`
  
-  Lookup a tweet by ID and print the tweet object in JSON format. `TwitterCLI show tweet_id [field1,fields2]` if the fields are empty then display all all fields in JSON document. For example: `TwitterCLI show 210462857140252672 null`
+  Lookup a tweet by ID and print the tweet object in JSON format. To run this application pass in the following arguments `TwitterCLI show tweet_id [field1,fields2]` if the fields are empty then display all all fields in JSON document. For example: `TwitterCLI show 210462857140252672 null`
   
   2. `Delete Tweets`
 	
@@ -62,6 +62,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
 	 
 3.   `Post Tweet`
 
+Create a tweet with a geotag and output the created tweet object in JSON format.
 
 ## Design and Implementation
   Twitter Application Workflow
@@ -88,11 +89,11 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMDMyMjI0LDUzNjA5NDYxLC02NDcyOT
-Q5OTYsLTE2MDEwNTY4NjgsLTE3NjQ1Mjg3NiwtNzM0NDY5NDIy
-LDE1ODc4MTU5NjEsLTE4NDQ3NTM0MjIsLTUzODQ1OTQ0OCwtMT
-Y2MjkzMzUyLDc2NTkwMTc5MCwxNTA2NzgyNzQyLC02ODMwMjMz
-MiwtMjAxOTUyNTQ0NCw5MjY5MDQ3OTAsMTM4OTg0ODIwOCw3OT
-IwMjU3NDQsMTczMjE5Mzk1NiwtMTQwNjU4NzQ5OCwtMzcxNDY5
-MjY4XX0=
+eyJoaXN0b3J5IjpbLTg5NTA1MDEwNyw1MzYwOTQ2MSwtNjQ3Mj
+k0OTk2LC0xNjAxMDU2ODY4LC0xNzY0NTI4NzYsLTczNDQ2OTQy
+MiwxNTg3ODE1OTYxLC0xODQ0NzUzNDIyLC01Mzg0NTk0NDgsLT
+E2NjI5MzM1Miw3NjU5MDE3OTAsMTUwNjc4Mjc0MiwtNjgzMDIz
+MzIsLTIwMTk1MjU0NDQsOTI2OTA0NzkwLDEzODk4NDgyMDgsNz
+kyMDI1NzQ0LDE3MzIxOTM5NTYsLTE0MDY1ODc0OTgsLTM3MTQ2
+OTI2OF19
 -->
