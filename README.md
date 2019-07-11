@@ -62,7 +62,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
 	 
 3.   `Post Tweet`
 
-Create a tweet with a geotag and output the created tweet object in JSON format. To run this application pass in the following arguments ` TwitterCLI post "tweet_text" "latitude:longitude"`
+Create a tweet with a geotag and output the created tweet object in JSON format. To run this application pass in the following arguments ` TwitterCLI post "tweet_text" "latitude:longitude"`. For example `TwitterCLI post "This is my First tweet" "50:"`
 
 ## Design and Implementation
   Twitter Application Workflow
@@ -89,11 +89,11 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzExMDk2Niw1MzYwOTQ2MSwtNjQ3Mj
-k0OTk2LC0xNjAxMDU2ODY4LC0xNzY0NTI4NzYsLTczNDQ2OTQy
-MiwxNTg3ODE1OTYxLC0xODQ0NzUzNDIyLC01Mzg0NTk0NDgsLT
-E2NjI5MzM1Miw3NjU5MDE3OTAsMTUwNjc4Mjc0MiwtNjgzMDIz
-MzIsLTIwMTk1MjU0NDQsOTI2OTA0NzkwLDEzODk4NDgyMDgsNz
-kyMDI1NzQ0LDE3MzIxOTM5NTYsLTE0MDY1ODc0OTgsLTM3MTQ2
-OTI2OF19
+eyJoaXN0b3J5IjpbMzAwMzU2MzM2LDEwMTcxMTA5NjYsNTM2MD
+k0NjEsLTY0NzI5NDk5NiwtMTYwMTA1Njg2OCwtMTc2NDUyODc2
+LC03MzQ0Njk0MjIsMTU4NzgxNTk2MSwtMTg0NDc1MzQyMiwtNT
+M4NDU5NDQ4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3
+NDIsLTY4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMz
+g5ODQ4MjA4LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC0xNDA2NTg3
+NDk4XX0=
 -->
