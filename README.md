@@ -35,8 +35,7 @@ The output from the result is directed to the file name of your choice and locat
   ![image](https://user-images.githubusercontent.com/51926543/61072310-03e7c200-a3e1-11e9-96e4-49b3d74cb9bd.png)
   
   Basic Java Application Workflow
-  ![image](https://user-images.githubusercontent.com/51926543/61073755-1b747a00-a3e4-11e9-8f17-6b8c654e9579.png)
-
+  
   ## Enhancements and Issues
    #### Enhancements
   1. Use Connection Polling
@@ -64,11 +63,11 @@ The output from the result is directed to the file name of your choice and locat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjc4Mjc0MiwtMjAxOTUyNTQ0NCw5Mj
-Y5MDQ3OTAsMTM4OTg0ODIwOCw3OTIwMjU3NDQsMTczMjE5Mzk1
-NiwtMTQwNjU4NzQ5OCwtMzcxNDY5MjY4LC0xNDU2MjkxOTk2LD
-Y0OTQ4MjUxNywtMTI2NzkzMjQwNCwtMTA4OTIzMzMxMCwxMjUy
-MTY2ODExLC02MDc3NDkzMjUsLTE5OTkzOTY2NzUsMTI1NzQ3ND
-A2OCwtMTAzNDU2ODI2NiwtOTI0MTE4OTQzLC0xODAwMDc2ODU2
-LC0xMDc1NDI5NDYxXX0=
+eyJoaXN0b3J5IjpbLTE1OTA2NDQyNDEsLTIwMTk1MjU0NDQsOT
+I2OTA0NzkwLDEzODk4NDgyMDgsNzkyMDI1NzQ0LDE3MzIxOTM5
+NTYsLTE0MDY1ODc0OTgsLTM3MTQ2OTI2OCwtMTQ1NjI5MTk5Ni
+w2NDk0ODI1MTcsLTEyNjc5MzI0MDQsLTEwODkyMzMzMTAsMTI1
+MjE2NjgxMSwtNjA3NzQ5MzI1LC0xOTk5Mzk2Njc1LDEyNTc0Nz
+QwNjgsLTEwMzQ1NjgyNjYsLTkyNDExODk0MywtMTgwMDA3Njg1
+NiwtMTA3NTQyOTQ2MV19
 -->
