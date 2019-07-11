@@ -32,7 +32,7 @@ The output from the result is directed to the file name of your choice and locat
   ## Introduction
   JDBC stands for Java Database Connectivity. This JDBC app uses Java API to connect and execute the query with the database. JDBC API uses JDBC driver to connect with database. By the help of JDBC API, we can save, create, update and fetch tabular data from the database.
   ## Design and Implementation
-  ![image](https://user-images.githubusercontent.com/51926543/61072310-03e7c200-a3e1-11e9-96e4-49b3d74cb9bd.png)
+  
   
   Basic Java Application Workflow
  ![image](https://user-images.githubusercontent.com/51926543/61073755-1b747a00-a3e4-11e9-8f17-6b8c654e9579.png)
@@ -63,11 +63,11 @@ The output from the result is directed to the file name of your choice and locat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkwMDQwNDAsNzY1OTAxNzkwLDE1MD
-Y3ODI3NDIsLTY4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5
-MCwxMzg5ODQ4MjA4LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC0xND
-A2NTg3NDk4LC0zNzE0NjkyNjgsLTE0NTYyOTE5OTYsNjQ5NDgy
-NTE3LC0xMjY3OTMyNDA0LC0xMDg5MjMzMzEwLDEyNTIxNjY4MT
-EsLTYwNzc0OTMyNSwtMTk5OTM5NjY3NSwxMjU3NDc0MDY4LC0x
-MDM0NTY4MjY2XX0=
+eyJoaXN0b3J5IjpbLTE2NjI5MzM1Miw3NjU5MDE3OTAsMTUwNj
+c4Mjc0MiwtNjgzMDIzMzIsLTIwMTk1MjU0NDQsOTI2OTA0Nzkw
+LDEzODk4NDgyMDgsNzkyMDI1NzQ0LDE3MzIxOTM5NTYsLTE0MD
+Y1ODc0OTgsLTM3MTQ2OTI2OCwtMTQ1NjI5MTk5Niw2NDk0ODI1
+MTcsLTEyNjc5MzI0MDQsLTEwODkyMzMzMTAsMTI1MjE2NjgxMS
+wtNjA3NzQ5MzI1LC0xOTk5Mzk2Njc1LDEyNTc0NzQwNjgsLTEw
+MzQ1NjgyNjZdfQ==
 -->
