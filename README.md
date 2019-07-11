@@ -56,7 +56,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   ## Design and Implementation
   Twitter Application Workflow
   ![image](https://user-images.githubusercontent.com/51926543/61074879-bcfccb00-a3e6-11e9-83bc-4741447efa00.png)
-
+`Apache HttpClient `
   ## Enhancements 
   1. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
   2. Support search History.
@@ -64,11 +64,11 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ3NTM0MjIsLTUzODQ1OTQ0OCwtMT
-Y2MjkzMzUyLDc2NTkwMTc5MCwxNTA2NzgyNzQyLC02ODMwMjMz
-MiwtMjAxOTUyNTQ0NCw5MjY5MDQ3OTAsMTM4OTg0ODIwOCw3OT
-IwMjU3NDQsMTczMjE5Mzk1NiwtMTQwNjU4NzQ5OCwtMzcxNDY5
-MjY4LC0xNDU2MjkxOTk2LDY0OTQ4MjUxNywtMTI2NzkzMjQwNC
-wtMTA4OTIzMzMxMCwxMjUyMTY2ODExLC02MDc3NDkzMjUsLTE5
-OTkzOTY2NzVdfQ==
+eyJoaXN0b3J5IjpbLTU0MTA0ODMzOSwtMTg0NDc1MzQyMiwtNT
+M4NDU5NDQ4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3
+NDIsLTY4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMz
+g5ODQ4MjA4LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC0xNDA2NTg3
+NDk4LC0zNzE0NjkyNjgsLTE0NTYyOTE5OTYsNjQ5NDgyNTE3LC
+0xMjY3OTMyNDA0LC0xMDg5MjMzMzEwLDEyNTIxNjY4MTEsLTYw
+Nzc0OTMyNV19
 -->
