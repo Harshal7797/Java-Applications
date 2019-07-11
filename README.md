@@ -39,7 +39,7 @@ The output from the result is directed to the file name of your choice and locat
 #### Service
 Open a connection prepare 
 #### Data Access Object (DAO)
-Prepares a Statement to be executed  and with the help of JDBC it will connect to the database and retrieve the relevant information.
+Prepares a Statement to be executed  and with the help of JDBC it will connect to the database and retrieve, insert, update, delete the relevant information.
   ## Enhancements and Issues
    #### Enhancements
   1. Use Connection Polling
@@ -66,7 +66,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODUxNjIzOCwtMTY2MjkzMzUyLDc2NT
+eyJoaXN0b3J5IjpbMTU3MjAyMDk2NSwtMTY2MjkzMzUyLDc2NT
 kwMTc5MCwxNTA2NzgyNzQyLC02ODMwMjMzMiwtMjAxOTUyNTQ0
 NCw5MjY5MDQ3OTAsMTM4OTg0ODIwOCw3OTIwMjU3NDQsMTczMj
 E5Mzk1NiwtMTQwNjU4NzQ5OCwtMzcxNDY5MjY4LC0xNDU2Mjkx
