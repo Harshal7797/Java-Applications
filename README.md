@@ -37,9 +37,9 @@ The output from the result is directed to the file name of your choice and locat
   Basic Java Application Workflow
  ![image](https://user-images.githubusercontent.com/51926543/61073755-1b747a00-a3e4-11e9-8f17-6b8c654e9579.png)
 #### Service
-Open a connection sends request to Data Access Object (DAO)
+Open a connection sends request to Data Access Object (DAO).
 #### Data Access Object (DAO)
-Prepares a Statement to be executed  and with the help of JDBC it will connect to the database and retrieve, insert, update, delete the relevant information.
+Prepares a Statement to be executed  and with the help of JDBC it will connect to the database and retrieve, insert, update and delete the relevant information.
   ## Enhancements and Issues
    #### Enhancements
   1. Use Connection Polling
@@ -66,7 +66,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Njc2NTEwNywtMTY2MjkzMzUyLDc2NT
+eyJoaXN0b3J5IjpbLTUzODQ1OTQ0OCwtMTY2MjkzMzUyLDc2NT
 kwMTc5MCwxNTA2NzgyNzQyLC02ODMwMjMzMiwtMjAxOTUyNTQ0
 NCw5MjY5MDQ3OTAsMTM4OTg0ODIwOCw3OTIwMjU3NDQsMTczMj
 E5Mzk1NiwtMTQwNjU4NzQ5OCwtMzcxNDY5MjY4LC0xNDU2Mjkx
