@@ -57,7 +57,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   Twitter Application Workflow
   ![image](https://user-images.githubusercontent.com/51926543/61077272-07347b00-a3ec-11e9-91b2-7b22d6aa5388.png)
 
-1.`HttpHelper` 
+1. `HttpHelper` 
 Making HTTP request `GET/PUT/DELETE` and handle authentication
 
 2. `TwitterRestDAO`
@@ -78,11 +78,11 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTAxODk2OCwtMTc2NDUyODc2LC03Mz
-Q0Njk0MjIsMTU4NzgxNTk2MSwtMTg0NDc1MzQyMiwtNTM4NDU5
-NDQ4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3NDIsLT
-Y4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMzg5ODQ4
-MjA4LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC0xNDA2NTg3NDk4LC
-0zNzE0NjkyNjgsLTE0NTYyOTE5OTYsNjQ5NDgyNTE3LC0xMjY3
-OTMyNDA0XX0=
+eyJoaXN0b3J5IjpbLTE2MDEwNTY4NjgsLTE3NjQ1Mjg3NiwtNz
+M0NDY5NDIyLDE1ODc4MTU5NjEsLTE4NDQ3NTM0MjIsLTUzODQ1
+OTQ0OCwtMTY2MjkzMzUyLDc2NTkwMTc5MCwxNTA2NzgyNzQyLC
+02ODMwMjMzMiwtMjAxOTUyNTQ0NCw5MjY5MDQ3OTAsMTM4OTg0
+ODIwOCw3OTIwMjU3NDQsMTczMjE5Mzk1NiwtMTQwNjU4NzQ5OC
+wtMzcxNDY5MjY4LC0xNDU2MjkxOTk2LDY0OTQ4MjUxNywtMTI2
+NzkzMjQwNF19
 -->
