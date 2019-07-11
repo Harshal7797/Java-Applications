@@ -64,7 +64,7 @@ Making HTTP request `GET/PUT/DELETE` and handle authentication
 Data Access Object Which handles tweet object. `DAO` depends on `HttpHelper`
 
 3. `Twitter Service`
-Manipulate twitter object according to application requirement.  This component is knows as Business logic.
+Manipulate twitter object according to application requirement. This component is knows as Business logic.
 
 4. `TwitterCLIRunner`
 Parse user CLI inputs and then calls the corresponding service methods.
@@ -78,11 +78,11 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEwNTY4NjgsLTE3NjQ1Mjg3NiwtNz
-M0NDY5NDIyLDE1ODc4MTU5NjEsLTE4NDQ3NTM0MjIsLTUzODQ1
-OTQ0OCwtMTY2MjkzMzUyLDc2NTkwMTc5MCwxNTA2NzgyNzQyLC
-02ODMwMjMzMiwtMjAxOTUyNTQ0NCw5MjY5MDQ3OTAsMTM4OTg0
-ODIwOCw3OTIwMjU3NDQsMTczMjE5Mzk1NiwtMTQwNjU4NzQ5OC
-wtMzcxNDY5MjY4LC0xNDU2MjkxOTk2LDY0OTQ4MjUxNywtMTI2
-NzkzMjQwNF19
+eyJoaXN0b3J5IjpbLTY0NzI5NDk5NiwtMTYwMTA1Njg2OCwtMT
+c2NDUyODc2LC03MzQ0Njk0MjIsMTU4NzgxNTk2MSwtMTg0NDc1
+MzQyMiwtNTM4NDU5NDQ4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLD
+E1MDY3ODI3NDIsLTY4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkw
+NDc5MCwxMzg5ODQ4MjA4LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC
+0xNDA2NTg3NDk4LC0zNzE0NjkyNjgsLTE0NTYyOTE5OTYsNjQ5
+NDgyNTE3XX0=
 -->
