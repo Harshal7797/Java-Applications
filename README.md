@@ -62,7 +62,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
 	 
 3.   `Post Tweet`
 
-Create a tweet with a geotag and output the created tweet object in JSON format.
+Create a tweet with a geotag and output the created tweet object in JSON format. To run this application pass in the following arguments ` TwitterCLI post "tweet_text" "latitude:longitude"`
 
 ## Design and Implementation
   Twitter Application Workflow
@@ -89,7 +89,7 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzQyNTg2Myw1MzYwOTQ2MSwtNjQ3Mj
+eyJoaXN0b3J5IjpbMTAxNzExMDk2Niw1MzYwOTQ2MSwtNjQ3Mj
 k0OTk2LC0xNjAxMDU2ODY4LC0xNzY0NTI4NzYsLTczNDQ2OTQy
 MiwxNTg3ODE1OTYxLC0xODQ0NzUzNDIyLC01Mzg0NTk0NDgsLT
 E2NjI5MzM1Miw3NjU5MDE3OTAsMTUwNjc4Mjc0MiwtNjgzMDIz
