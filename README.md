@@ -55,7 +55,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   1. `Show Tweet`
   Lookup a tweet by ID and print the tweet object in JSON format. `TwitterCLI show tweet_id [field1,fields2]` if the fields are empty then display all all fields in JSON document. For example: `TwitterCLI show 210462857140252672 null`
   2. `Delete Tweets`
-	 Delete a list of tweets by id and output the deleted tweet object in JSON format.
+	 Delete a list of tweets by id and output the deleted tweet object in JSON format. ` TwitterCLI delete tweet_ids` a comma- sperated list of tweets ids. For example: ` TwitterCLI delete (210462857140252672, 210462857140252672)`
   ## Design and Implementation
   Twitter Application Workflow
   ![image](https://user-images.githubusercontent.com/51926543/61077272-07347b00-a3ec-11e9-91b2-7b22d6aa5388.png)
@@ -81,7 +81,7 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDE5MDU3LC02NDcyOTQ5OTYsLTE2MD
+eyJoaXN0b3J5IjpbOTE4NjQ2MzMxLC02NDcyOTQ5OTYsLTE2MD
 EwNTY4NjgsLTE3NjQ1Mjg3NiwtNzM0NDY5NDIyLDE1ODc4MTU5
 NjEsLTE4NDQ3NTM0MjIsLTUzODQ1OTQ0OCwtMTY2MjkzMzUyLD
 c2NTkwMTc5MCwxNTA2NzgyNzQyLC02ODMwMjMzMiwtMjAxOTUy
