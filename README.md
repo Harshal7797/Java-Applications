@@ -59,7 +59,10 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   2. `Delete Tweets`
 	
 	 Delete a list of tweets by id and output the deleted tweet object in JSON format. ` TwitterCLI delete tweet_ids` a comma- separated list of tweets ids. For example: ` TwitterCLI delete (210462857140252672, 210462857140252672)`
-3.   
+	 
+3.   `Post Tweet`
+
+
 ## Design and Implementation
   Twitter Application Workflow
   ![image](https://user-images.githubusercontent.com/51926543/61077272-07347b00-a3ec-11e9-91b2-7b22d6aa5388.png)
@@ -85,11 +88,11 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjY2OTM0Nyw1MzYwOTQ2MSwtNjQ3Mj
-k0OTk2LC0xNjAxMDU2ODY4LC0xNzY0NTI4NzYsLTczNDQ2OTQy
-MiwxNTg3ODE1OTYxLC0xODQ0NzUzNDIyLC01Mzg0NTk0NDgsLT
-E2NjI5MzM1Miw3NjU5MDE3OTAsMTUwNjc4Mjc0MiwtNjgzMDIz
-MzIsLTIwMTk1MjU0NDQsOTI2OTA0NzkwLDEzODk4NDgyMDgsNz
-kyMDI1NzQ0LDE3MzIxOTM5NTYsLTE0MDY1ODc0OTgsLTM3MTQ2
-OTI2OF19
+eyJoaXN0b3J5IjpbNjAwMDMyMjI0LDUzNjA5NDYxLC02NDcyOT
+Q5OTYsLTE2MDEwNTY4NjgsLTE3NjQ1Mjg3NiwtNzM0NDY5NDIy
+LDE1ODc4MTU5NjEsLTE4NDQ3NTM0MjIsLTUzODQ1OTQ0OCwtMT
+Y2MjkzMzUyLDc2NTkwMTc5MCwxNTA2NzgyNzQyLC02ODMwMjMz
+MiwtMjAxOTUyNTQ0NCw5MjY5MDQ3OTAsMTM4OTg0ODIwOCw3OT
+IwMjU3NDQsMTczMjE5Mzk1NiwtMTQwNjU4NzQ5OCwtMzcxNDY5
+MjY4XX0=
 -->
