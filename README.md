@@ -62,7 +62,7 @@ Making HTTP request `GET/PUT/DELETE` and handle authentication
 2. `DAO`
 Data Access Object Which handles tweet object. `DAO` depends on `HttpHelper`
 3. `Service`
-Manipulate twitter object according to application requiremnt 
+Manipulate twitter object according to application requirement.  
   ## Enhancements 
   1. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
   2. Support search History.
@@ -70,11 +70,11 @@ Manipulate twitter object according to application requiremnt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzgxNTk2MSwtMTg0NDc1MzQyMiwtNT
-M4NDU5NDQ4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3
-NDIsLTY4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMz
-g5ODQ4MjA4LDc5MjAyNTc0NCwxNzMyMTkzOTU2LC0xNDA2NTg3
-NDk4LC0zNzE0NjkyNjgsLTE0NTYyOTE5OTYsNjQ5NDgyNTE3LC
-0xMjY3OTMyNDA0LC0xMDg5MjMzMzEwLDEyNTIxNjY4MTEsLTYw
-Nzc0OTMyNV19
+eyJoaXN0b3J5IjpbLTczNDQ2OTQyMiwxNTg3ODE1OTYxLC0xOD
+Q0NzUzNDIyLC01Mzg0NTk0NDgsLTE2NjI5MzM1Miw3NjU5MDE3
+OTAsMTUwNjc4Mjc0MiwtNjgzMDIzMzIsLTIwMTk1MjU0NDQsOT
+I2OTA0NzkwLDEzODk4NDgyMDgsNzkyMDI1NzQ0LDE3MzIxOTM5
+NTYsLTE0MDY1ODc0OTgsLTM3MTQ2OTI2OCwtMTQ1NjI5MTk5Ni
+w2NDk0ODI1MTcsLTEyNjc5MzI0MDQsLTEwODkyMzMzMTAsMTI1
+MjE2NjgxMV19
 -->
