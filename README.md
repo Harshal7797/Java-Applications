@@ -16,10 +16,11 @@ Root directory path that need searching for your desired keyword.
 The output from the result is directed to the file name of your choice and location instead of displaying on terminal.
   
   ## Design and Implementation
-  You can talk about the following points
-  - Pseudo code and workflow
-  - Libraries
-  - Diagrams
+  Pseudo code for the Grep application
+  ```
+  matchedLines = []
+  for file in listFiles(rootDir)
+  ```
   ## Enhancements and Issues
   #### Enhancements
   1. Instead of searching all the files we can specify which file need to be search for example (.txt,. csv etc.), this would eliminate searching for irrelevant files and reduce time complexity.
@@ -89,11 +90,11 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY5ODkzOTMsLTY5MjI5NTk4OSwxMD
-E3MTEwOTY2LDUzNjA5NDYxLC02NDcyOTQ5OTYsLTE2MDEwNTY4
-NjgsLTE3NjQ1Mjg3NiwtNzM0NDY5NDIyLDE1ODc4MTU5NjEsLT
-E4NDQ3NTM0MjIsLTUzODQ1OTQ0OCwtMTY2MjkzMzUyLDc2NTkw
-MTc5MCwxNTA2NzgyNzQyLC02ODMwMjMzMiwtMjAxOTUyNTQ0NC
-w5MjY5MDQ3OTAsMTM4OTg0ODIwOCw3OTIwMjU3NDQsMTczMjE5
-Mzk1Nl19
+eyJoaXN0b3J5IjpbMTcxMjM3MjQ3MSwtMTIyNjk4OTM5MywtNj
+kyMjk1OTg5LDEwMTcxMTA5NjYsNTM2MDk0NjEsLTY0NzI5NDk5
+NiwtMTYwMTA1Njg2OCwtMTc2NDUyODc2LC03MzQ0Njk0MjIsMT
+U4NzgxNTk2MSwtMTg0NDc1MzQyMiwtNTM4NDU5NDQ4LC0xNjYy
+OTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3NDIsLTY4MzAyMzMyLC
+0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMzg5ODQ4MjA4LDc5MjAy
+NTc0NF19
 -->
