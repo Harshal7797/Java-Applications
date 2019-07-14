@@ -60,7 +60,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
 	
  Delete a list of tweets by id and output the deleted tweet object in JSON format. To run this application pass in the following arguments ` TwitterCLI delete tweet_ids` a comma- separated list of tweets ids. For example: ` TwitterCLI delete (210462857140252672, 210462857140252672)`
 	 
-3.   `Post Tweet`
+ 3.   `Post Tweet`
 
 Create a tweet with a geotag and output the created tweet object in JSON format. To run this application pass in the following arguments ` TwitterCLI post "tweet_text" "latitude:longitude"`. For example `TwitterCLI post "This is my First tweet" "50:50"`
 
@@ -89,7 +89,7 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU1ODM4MzcsLTY5MjI5NTk4OSwxMD
+eyJoaXN0b3J5IjpbLTE0MDI5NzE3NDcsLTY5MjI5NTk4OSwxMD
 E3MTEwOTY2LDUzNjA5NDYxLC02NDcyOTQ5OTYsLTE2MDEwNTY4
 NjgsLTE3NjQ1Mjg3NiwtNzM0NDY5NDIyLDE1ODc4MTU5NjEsLT
 E4NDQ3NTM0MjIsLTUzODQ1OTQ0OCwtMTY2MjkzMzUyLDc2NTkw
