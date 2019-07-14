@@ -17,7 +17,7 @@ The output from the result is directed to the file name of your choice and locat
   
   ## Design and Implementation
   Pseudo code for the Grep application
-  ```
+  ```java
   matchedLines = []
   for file in listFiles(rootDir)
   ```
@@ -90,11 +90,11 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjM3MjQ3MSwtMTIyNjk4OTM5MywtNj
-kyMjk1OTg5LDEwMTcxMTA5NjYsNTM2MDk0NjEsLTY0NzI5NDk5
-NiwtMTYwMTA1Njg2OCwtMTc2NDUyODc2LC03MzQ0Njk0MjIsMT
-U4NzgxNTk2MSwtMTg0NDc1MzQyMiwtNTM4NDU5NDQ4LC0xNjYy
-OTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3NDIsLTY4MzAyMzMyLC
-0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMzg5ODQ4MjA4LDc5MjAy
-NTc0NF19
+eyJoaXN0b3J5IjpbMTczODc5ODIyOSwxNzEyMzcyNDcxLC0xMj
+I2OTg5MzkzLC02OTIyOTU5ODksMTAxNzExMDk2Niw1MzYwOTQ2
+MSwtNjQ3Mjk0OTk2LC0xNjAxMDU2ODY4LC0xNzY0NTI4NzYsLT
+czNDQ2OTQyMiwxNTg3ODE1OTYxLC0xODQ0NzUzNDIyLC01Mzg0
+NTk0NDgsLTE2NjI5MzM1Miw3NjU5MDE3OTAsMTUwNjc4Mjc0Mi
+wtNjgzMDIzMzIsLTIwMTk1MjU0NDQsOTI2OTA0NzkwLDEzODk4
+NDgyMDhdfQ==
 -->
