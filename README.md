@@ -20,6 +20,10 @@ The output from the result is directed to the file name of your choice and locat
   ```java
   matchedLines = []
   for file in listFiles(rootDir)
+	  for line in readLines(file)
+		  if containsPattern(Line)
+			  matchedLines.add(line)
+  writeToFile(matchedLines)
   ```
   ## Enhancements and Issues
   #### Enhancements
@@ -90,11 +94,11 @@ Create above components and start applications.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODc5ODIyOSwxNzEyMzcyNDcxLC0xMj
-I2OTg5MzkzLC02OTIyOTU5ODksMTAxNzExMDk2Niw1MzYwOTQ2
-MSwtNjQ3Mjk0OTk2LC0xNjAxMDU2ODY4LC0xNzY0NTI4NzYsLT
-czNDQ2OTQyMiwxNTg3ODE1OTYxLC0xODQ0NzUzNDIyLC01Mzg0
-NTk0NDgsLTE2NjI5MzM1Miw3NjU5MDE3OTAsMTUwNjc4Mjc0Mi
-wtNjgzMDIzMzIsLTIwMTk1MjU0NDQsOTI2OTA0NzkwLDEzODk4
-NDgyMDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNTczMTQzNTMsMTcxMjM3MjQ3MSwtMT
+IyNjk4OTM5MywtNjkyMjk1OTg5LDEwMTcxMTA5NjYsNTM2MDk0
+NjEsLTY0NzI5NDk5NiwtMTYwMTA1Njg2OCwtMTc2NDUyODc2LC
+03MzQ0Njk0MjIsMTU4NzgxNTk2MSwtMTg0NDc1MzQyMiwtNTM4
+NDU5NDQ4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3ND
+IsLTY4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMzg5
+ODQ4MjA4XX0=
 -->
