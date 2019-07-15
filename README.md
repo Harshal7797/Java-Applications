@@ -7,9 +7,6 @@
 - [Java Grep App](#java-grep-app)
   * [Introduction](#introduction-1)
   * [Usage](#usage-1)
-        * [regex](#regex)
-        * [rootPath](#rootpath)
-        * [outFile](#outfile)
   * [Design and Implementation](#design-and-implementation-1)
   * [Enhancements and Issues](#enhancements-and-issues)
       - [Enhancements](#enhancements-1)
@@ -123,7 +120,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTMzNTUzMiwxMjUzNTk4ODk4LC03NT
+eyJoaXN0b3J5IjpbMjExODMwMTYxMiwxMjUzNTk4ODk4LC03NT
 E4MjMyMzcsLTEzNTczMTQzNTMsMTcxMjM3MjQ3MSwtMTIyNjk4
 OTM5MywtNjkyMjk1OTg5LDEwMTcxMTA5NjYsNTM2MDk0NjEsLT
 Y0NzI5NDk5NiwtMTYwMTA1Njg2OCwtMTc2NDUyODc2LC03MzQ0
