@@ -4,7 +4,7 @@
   * [Usage](#usage)
   * [Design and Implementation](#design-and-implementation)
   * [Enhancements](#enhancements)
-- [Java Grep App](#java-grep-app)
+ -[Java Grep App](#java-grep-app)
   * [Introduction](#introduction-1)
   * [Usage](#usage-1)
 # Twitter CLI App
@@ -105,11 +105,11 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDE0NTA0OCwxMjUzNTk4ODk4LC03NT
-E4MjMyMzcsLTEzNTczMTQzNTMsMTcxMjM3MjQ3MSwtMTIyNjk4
-OTM5MywtNjkyMjk1OTg5LDEwMTcxMTA5NjYsNTM2MDk0NjEsLT
-Y0NzI5NDk5NiwtMTYwMTA1Njg2OCwtMTc2NDUyODc2LC03MzQ0
-Njk0MjIsMTU4NzgxNTk2MSwtMTg0NDc1MzQyMiwtNTM4NDU5ND
-Q4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3NDIsLTY4
-MzAyMzMyXX0=
+eyJoaXN0b3J5IjpbODQyNjkyNzgyLDEyNTM1OTg4OTgsLTc1MT
+gyMzIzNywtMTM1NzMxNDM1MywxNzEyMzcyNDcxLC0xMjI2OTg5
+MzkzLC02OTIyOTU5ODksMTAxNzExMDk2Niw1MzYwOTQ2MSwtNj
+Q3Mjk0OTk2LC0xNjAxMDU2ODY4LC0xNzY0NTI4NzYsLTczNDQ2
+OTQyMiwxNTg3ODE1OTYxLC0xODQ0NzUzNDIyLC01Mzg0NTk0ND
+gsLTE2NjI5MzM1Miw3NjU5MDE3OTAsMTUwNjc4Mjc0MiwtNjgz
+MDIzMzJdfQ==
 -->
