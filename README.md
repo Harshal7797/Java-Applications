@@ -1,3 +1,43 @@
+# Twitter CLI App
+  ## Introduction
+  This application allows you to create, read and delete tweets on Twitter from terminal. This is similar to the postman app that uses `HTTP GET`,`HTTP POST`  to get information is JSON String . Twitter CLI app has three main features that user uses most of the time in real world. 
+  ## Usage
+  1. `Show Tweet`
+ 
+  Lookup a tweet by ID and print the tweet object in JSON format. To run this application pass in the following arguments `TwitterCLI show tweet_id [field1,fields2]` if the fields are empty then display all all fields in JSON document. For example: `TwitterCLI show 210462857140252672 null`
+  
+  2. `Delete Tweets`
+	
+ Delete a list of tweets by id and output the deleted tweet object in JSON format. To run this application pass in the following arguments ` TwitterCLI delete tweet_ids` a comma- separated list of tweets ids. For example: ` TwitterCLI delete (210462857140252672, 210462857140252672)`
+
+ 3.   `Post Tweet`
+
+Create a tweet with a geotag and output the created tweet object in JSON format. To run this application pass in the following arguments ` TwitterCLI post "tweet_text" "latitude:longitude"`. For example `TwitterCLI post "This is my First tweet" "50:50"`
+
+## Design and Implementation
+  Twitter Application Workflow
+  ![image](https://user-images.githubusercontent.com/51926543/61077272-07347b00-a3ec-11e9-91b2-7b22d6aa5388.png)
+
+1. `HttpHelper` 
+Making HTTP request `GET/PUT/DELETE` and handle authentication
+
+2. `TwitterRestDAO`
+Data Access Object Which handles tweet object. `DAO` depends on `HttpHelper`
+
+3. `Twitter Service`
+Manipulate twitter object according to application requirement. This component is knows as Business logic.
+
+4. `TwitterCLIRunner`
+Parse user CLI inputs and then calls the corresponding service methods.
+
+5. `TwitterCLI (Main)`
+Create above components and start applications.
+  ## Enhancements 
+  1. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
+  2. Support search History.
+  3.  Print out user define selected field from Tweet Object.
+
+
 # Java Grep App
   ## Introduction
   This app tries to mimic Unix command called `grep` which stands for `global regular expression print`.This app searches for the text pattern or regular expression recursively in the given directory and output the matched  lines to a temp file.
@@ -53,52 +93,14 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   4. Remove Auto-Commit 
   #### Issue
   5. The Docker image does not retain database information for the next time I want to work on.  
-  # Twitter CLI App
-  ## Introduction
-  This application allows you to create, read and delete tweets on Twitter from terminal. This is similar to the postman app that uses `HTTP GET`,`HTTP POST`  to get information is JSON String . Twitter CLI app has three main features that user uses most of the time in real world. 
-  ## Usage
-  1. `Show Tweet`
- 
-  Lookup a tweet by ID and print the tweet object in JSON format. To run this application pass in the following arguments `TwitterCLI show tweet_id [field1,fields2]` if the fields are empty then display all all fields in JSON document. For example: `TwitterCLI show 210462857140252672 null`
   
-  2. `Delete Tweets`
-	
- Delete a list of tweets by id and output the deleted tweet object in JSON format. To run this application pass in the following arguments ` TwitterCLI delete tweet_ids` a comma- separated list of tweets ids. For example: ` TwitterCLI delete (210462857140252672, 210462857140252672)`
-
- 3.   `Post Tweet`
-
-Create a tweet with a geotag and output the created tweet object in JSON format. To run this application pass in the following arguments ` TwitterCLI post "tweet_text" "latitude:longitude"`. For example `TwitterCLI post "This is my First tweet" "50:50"`
-
-## Design and Implementation
-  Twitter Application Workflow
-  ![image](https://user-images.githubusercontent.com/51926543/61077272-07347b00-a3ec-11e9-91b2-7b22d6aa5388.png)
-
-1. `HttpHelper` 
-Making HTTP request `GET/PUT/DELETE` and handle authentication
-
-2. `TwitterRestDAO`
-Data Access Object Which handles tweet object. `DAO` depends on `HttpHelper`
-
-3. `Twitter Service`
-Manipulate twitter object according to application requirement. This component is knows as Business logic.
-
-4. `TwitterCLIRunner`
-Parse user CLI inputs and then calls the corresponding service methods.
-
-5. `TwitterCLI (Main)`
-Create above components and start applications.
-  ## Enhancements 
-  1. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
-  2. Support search History.
-  3.  Print out user define selected field from Tweet Object.
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTczMTQzNTMsMTcxMjM3MjQ3MSwtMT
-IyNjk4OTM5MywtNjkyMjk1OTg5LDEwMTcxMTA5NjYsNTM2MDk0
-NjEsLTY0NzI5NDk5NiwtMTYwMTA1Njg2OCwtMTc2NDUyODc2LC
-03MzQ0Njk0MjIsMTU4NzgxNTk2MSwtMTg0NDc1MzQyMiwtNTM4
-NDU5NDQ4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3ND
-IsLTY4MzAyMzMyLC0yMDE5NTI1NDQ0LDkyNjkwNDc5MCwxMzg5
-ODQ4MjA4XX0=
+eyJoaXN0b3J5IjpbLTc1MTgyMzIzNywtMTM1NzMxNDM1MywxNz
+EyMzcyNDcxLC0xMjI2OTg5MzkzLC02OTIyOTU5ODksMTAxNzEx
+MDk2Niw1MzYwOTQ2MSwtNjQ3Mjk0OTk2LC0xNjAxMDU2ODY4LC
+0xNzY0NTI4NzYsLTczNDQ2OTQyMiwxNTg3ODE1OTYxLC0xODQ0
+NzUzNDIyLC01Mzg0NTk0NDgsLTE2NjI5MzM1Miw3NjU5MDE3OT
+AsMTUwNjc4Mjc0MiwtNjgzMDIzMzIsLTIwMTk1MjU0NDQsOTI2
+OTA0NzkwXX0=
 -->
