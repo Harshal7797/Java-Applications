@@ -4,7 +4,6 @@
   * [Usage](#usage)
   * [Design and Implementation](#design-and-implementation)
   * [Enhancements](#enhancements)
-
 # Twitter CLI App
   ## Introduction
   This application allows you to create, read and delete tweets on Twitter from terminal. This is similar to the postman app that uses `HTTP GET`,`HTTP POST`  to get information is JSON String . Twitter CLI app has three main features that user uses most of the time in real world. 
@@ -103,11 +102,11 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzU5ODg5OCwtNzUxODIzMjM3LC0xMz
-U3MzE0MzUzLDE3MTIzNzI0NzEsLTEyMjY5ODkzOTMsLTY5MjI5
-NTk4OSwxMDE3MTEwOTY2LDUzNjA5NDYxLC02NDcyOTQ5OTYsLT
-E2MDEwNTY4NjgsLTE3NjQ1Mjg3NiwtNzM0NDY5NDIyLDE1ODc4
-MTU5NjEsLTE4NDQ3NTM0MjIsLTUzODQ1OTQ0OCwtMTY2MjkzMz
-UyLDc2NTkwMTc5MCwxNTA2NzgyNzQyLC02ODMwMjMzMiwtMjAx
-OTUyNTQ0NF19
+eyJoaXN0b3J5IjpbLTE1MTYxMjI3ODQsMTI1MzU5ODg5OCwtNz
+UxODIzMjM3LC0xMzU3MzE0MzUzLDE3MTIzNzI0NzEsLTEyMjY5
+ODkzOTMsLTY5MjI5NTk4OSwxMDE3MTEwOTY2LDUzNjA5NDYxLC
+02NDcyOTQ5OTYsLTE2MDEwNTY4NjgsLTE3NjQ1Mjg3NiwtNzM0
+NDY5NDIyLDE1ODc4MTU5NjEsLTE4NDQ3NTM0MjIsLTUzODQ1OT
+Q0OCwtMTY2MjkzMzUyLDc2NTkwMTc5MCwxNTA2NzgyNzQyLC02
+ODMwMjMzMl19
 -->
