@@ -4,7 +4,7 @@
   * [Usage](#usage)
   * [Design and Implementation](#design-and-implementation)
   * [Enhancements](#enhancements)
-- [Java JDBC App](#java-jdbc-app)
+[Java JDBC App](#java-jdbc-app)
   * [Introduction](#introduction-2)
   * [Design and Implementation](#design-and-implementation-2)
       - [Service](#service)
@@ -110,11 +110,11 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczMTY5NjY0LC03NTE4MjMyMzcsLTEzNT
-czMTQzNTMsMTcxMjM3MjQ3MSwtMTIyNjk4OTM5MywtNjkyMjk1
-OTg5LDEwMTcxMTA5NjYsNTM2MDk0NjEsLTY0NzI5NDk5NiwtMT
-YwMTA1Njg2OCwtMTc2NDUyODc2LC03MzQ0Njk0MjIsMTU4Nzgx
-NTk2MSwtMTg0NDc1MzQyMiwtNTM4NDU5NDQ4LC0xNjYyOTMzNT
-IsNzY1OTAxNzkwLDE1MDY3ODI3NDIsLTY4MzAyMzMyLC0yMDE5
-NTI1NDQ0XX0=
+eyJoaXN0b3J5IjpbLTEyOTYxNjY4MDMsLTc1MTgyMzIzNywtMT
+M1NzMxNDM1MywxNzEyMzcyNDcxLC0xMjI2OTg5MzkzLC02OTIy
+OTU5ODksMTAxNzExMDk2Niw1MzYwOTQ2MSwtNjQ3Mjk0OTk2LC
+0xNjAxMDU2ODY4LC0xNzY0NTI4NzYsLTczNDQ2OTQyMiwxNTg3
+ODE1OTYxLC0xODQ0NzUzNDIyLC01Mzg0NTk0NDgsLTE2NjI5Mz
+M1Miw3NjU5MDE3OTAsMTUwNjc4Mjc0MiwtNjgzMDIzMzIsLTIw
+MTk1MjU0NDRdfQ==
 -->
