@@ -7,8 +7,6 @@
 - [Java Grep App](#java-grep-app)
   * [Introduction](#introduction-1)
   * [Usage](#usage-1)
-        * [Note: You can also search for different keyword instead of data.](#note--you-can-also-search-for-different-keyword-instead-of-data)
-        * [For Example: Lets say you have stored your password somewhere in the directory but you do not know where it is. Instead of opening all the file and checking if it is there which is time consuming, we can make use of this such application that will output the result in milliseconds by onlu chnaging the regex pattern to `.*password.*`.](#for-example--lets-say-you-have-stored-your-password-somewhere-in-the-directory-but-you-do-not-know-where-it-is-instead-of-opening-all-the-file-and-checking-if-it-is-there-which-is-time-consuming--we-can-make-use-of-this-such-application-that-will-output-the-result-in-milliseconds-by-onlu-chnaging-the-regex-pattern-to---password--)
         * [regex](#regex)
         * [rootPath](#rootpath)
         * [outFile](#outfile)
@@ -125,7 +123,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDc5MzY0MiwxMjUzNTk4ODk4LC03NT
+eyJoaXN0b3J5IjpbLTE1MTMzNTUzMiwxMjUzNTk4ODk4LC03NT
 E4MjMyMzcsLTEzNTczMTQzNTMsMTcxMjM3MjQ3MSwtMTIyNjk4
 OTM5MywtNjkyMjk1OTg5LDEwMTcxMTA5NjYsNTM2MDk0NjEsLT
 Y0NzI5NDk5NiwtMTYwMTA1Njg2OCwtMTc2NDUyODc2LC03MzQ0
