@@ -1,3 +1,4 @@
+# Table Of Content
 [Twitter CLI App](#twitter-cli-app)
   * [Introduction](#introduction)
   * [Usage](#usage)
@@ -102,7 +103,7 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDc2OTQ0MywtNzUxODIzMjM3LC0xMz
+eyJoaXN0b3J5IjpbMTI1MzU5ODg5OCwtNzUxODIzMjM3LC0xMz
 U3MzE0MzUzLDE3MTIzNzI0NzEsLTEyMjY5ODkzOTMsLTY5MjI5
 NTk4OSwxMDE3MTEwOTY2LDUzNjA5NDYxLC02NDcyOTQ5OTYsLT
 E2MDEwNTY4NjgsLTE3NjQ1Mjg3NiwtNzM0NDY5NDIyLDE1ODc4
