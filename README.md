@@ -14,8 +14,6 @@
 - [Java JDBC App](#java-jdbc-app)
   * [Introduction](#introduction-2)
   * [Design and Implementation](#design-and-implementation-2)
-      - [Service](#service)
-      - [Data Access Object (DAO)](#data-access-object--dao-)
   * [Enhancements and Issues](#enhancements-and-issues-1)
       - [Enhancements](#enhancements-2)
       - [Issue](#issue-1)
@@ -120,11 +118,11 @@ Prepares a Statement to be executed  and with the help of JDBC it will connect t
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODMwMTYxMiwxMjUzNTk4ODk4LC03NT
-E4MjMyMzcsLTEzNTczMTQzNTMsMTcxMjM3MjQ3MSwtMTIyNjk4
-OTM5MywtNjkyMjk1OTg5LDEwMTcxMTA5NjYsNTM2MDk0NjEsLT
-Y0NzI5NDk5NiwtMTYwMTA1Njg2OCwtMTc2NDUyODc2LC03MzQ0
-Njk0MjIsMTU4NzgxNTk2MSwtMTg0NDc1MzQyMiwtNTM4NDU5ND
-Q4LC0xNjYyOTMzNTIsNzY1OTAxNzkwLDE1MDY3ODI3NDIsLTY4
-MzAyMzMyXX0=
+eyJoaXN0b3J5IjpbOTg5MDMxMDgyLDEyNTM1OTg4OTgsLTc1MT
+gyMzIzNywtMTM1NzMxNDM1MywxNzEyMzcyNDcxLC0xMjI2OTg5
+MzkzLC02OTIyOTU5ODksMTAxNzExMDk2Niw1MzYwOTQ2MSwtNj
+Q3Mjk0OTk2LC0xNjAxMDU2ODY4LC0xNzY0NTI4NzYsLTczNDQ2
+OTQyMiwxNTg3ODE1OTYxLC0xODQ0NzUzNDIyLC01Mzg0NTk0ND
+gsLTE2NjI5MzM1Miw3NjU5MDE3OTAsMTUwNjc4Mjc0MiwtNjgz
+MDIzMzJdfQ==
 -->
