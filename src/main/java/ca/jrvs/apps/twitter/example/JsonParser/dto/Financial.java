@@ -100,5 +100,4 @@ public class Financial {
     public void setNetIncome(Long netIncome) {
         this.netIncome = netIncome;
     }
-
 }
