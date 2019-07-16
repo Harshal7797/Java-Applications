@@ -52,7 +52,6 @@ public interface JavaGrep {
      * @throws IOException if write failed
      */
 
-
     void writeToFile(List<String> lines) throws IOException;
 
     String getRootPath();
@@ -66,6 +65,4 @@ public interface JavaGrep {
     String getOutFile();
 
     void setOutFile(String outFile);
-
-
 }
