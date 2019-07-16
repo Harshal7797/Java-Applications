@@ -1,15 +1,14 @@
 package ca.jrvs.apps.jdbc;
 
 import ca.jrvs.apps.jdbc.util.DataAccessObject;
-import com.sun.org.apache.xpath.internal.operations.Or;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Date;
+import java.util.List;
 public class OrderDAO extends DataAccessObject<Order> {
 
     private static String GET_BY_ID = "SELECT c.first_name, c.last_name, c.email, o.order_id, o.creation_date," +

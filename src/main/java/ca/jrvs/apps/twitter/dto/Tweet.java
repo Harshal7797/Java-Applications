@@ -139,5 +139,4 @@ public class Tweet {
     public void setRetweeted(Boolean retweeted) {
         this.retweeted = retweeted;
     }
-
 }
