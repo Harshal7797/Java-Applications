@@ -18,14 +18,12 @@ public class TwitterServiceTest {
 
     @InjectMocks
     private TwitterServiceImp service;
+    
     @Mock
     private CrdRepository mockDao;
 
-
-
     @Test
     public void postTweet() {
-
         //Replaced by @Mock @InjectMocks
 /*    CrdRepository mockDao = Mockito.mock(CrdRepository.class);
     TwitterService service = new TwitterServiceImp(mockDao);*/
@@ -62,8 +60,6 @@ public class TwitterServiceTest {
         } catch (RuntimeException e) {
             //e.printStackTrace();
         }
-
-
     }
 
     @Test
@@ -86,5 +82,4 @@ public class TwitterServiceTest {
             //e.printStackTrace();
         }
     }
-
 }
