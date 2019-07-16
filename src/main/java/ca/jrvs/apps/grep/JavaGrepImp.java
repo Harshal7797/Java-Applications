@@ -132,8 +132,5 @@ public class JavaGrepImp implements JavaGrep {
         } catch (Exception ex) {
             ex.printStackTrace();
         }
-
-
     }
-
 }
