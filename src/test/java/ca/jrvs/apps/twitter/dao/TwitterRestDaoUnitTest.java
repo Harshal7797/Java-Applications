@@ -24,10 +24,7 @@ public class TwitterRestDaoUnitTest {
     public void setup() {
         //setup Tweet
         this.expectedTweet = new Tweet();
-
         this.expectedTweet.setText("This is the testing phase" + System.currentTimeMillis());
-
-
         //Setup DAO
         this.httpHelper = new ApacheHttpHelper();
         this.dao = new TwitterRestDao(httpHelper);
