@@ -122,7 +122,6 @@ public class OrderDAO extends DataAccessObject<Order> {
             e.printStackTrace();
             throw new RuntimeException(e);
         }
-
         return orders;
     }
 }
