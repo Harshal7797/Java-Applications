@@ -59,11 +59,6 @@ public class JasonParser {
         dividend.setAmount(0.63);
         Dividend dividend1=new Dividend();
         String test = toJson(dividend, false, false);
-
-
         Dividend xxx =  toObjectFromJson(test,Dividend.class);
-
-
     }
-
 }
