@@ -117,8 +117,6 @@ public class OrderDAO extends DataAccessObject<Order> {
                 orderLine.setProductVariety(resultSet.getString(15));
                 orderLine.setProductPrice(resultSet.getBigDecimal(16));
                 order.getOrderLines().add(orderLine);
-
-
             }
         }catch(SQLException e){
             e.printStackTrace();
