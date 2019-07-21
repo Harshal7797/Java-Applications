@@ -24,9 +24,6 @@ public class TwitterServiceTest {
 
     @Test
     public void postTweet() {
-        //Replaced by @Mock @InjectMocks
-/*    CrdRepository mockDao = Mockito.mock(CrdRepository.class);
-    TwitterService service = new TwitterServiceImp(mockDao);*/
         Tweet mockTweet = new Tweet();
         mockTweet.setText("This is a fake tweet");
         when(mockDao.create(any())).thenReturn(mockTweet);

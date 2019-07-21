@@ -8,8 +8,6 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
 
-import java.util.Arrays;
-
 public class TwitterApiTest {
     private static String CONSUMER_KEY = " ";
     private static String CONSUMER_SECRET = " ";
@@ -27,7 +25,7 @@ public class TwitterApiTest {
         //sign the request (add headers)
         consumer.sign(request);
         System.out.println("Http Request Headers:");
-        Arrays.stream(request.getAllHeaders()).forEach(System.out::println);
+        //Arrays.stream(request.getAllHeaders()).forEach(System.out::println);
         
         //send/execute the request
         HttpClient httpClient = new DefaultHttpClient();
