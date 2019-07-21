@@ -1,6 +1,5 @@
 package ca.jrvs.apps.twitter.dao.helper;
 
-
 import oauth.signpost.OAuthConsumer;
 import oauth.signpost.commonshttp.CommonsHttpOAuthConsumer;
 import oauth.signpost.exception.OAuthException;
@@ -61,7 +60,5 @@ public class ApacheHttpHelper implements HttpHelper {
         OAuthConsumer consumer = new CommonsHttpOAuthConsumer(CONSUMER_KEY, CONSUMER_SECRET);
         consumer.setTokenWithSecret(ACCESS_TOKEN, TOKEN_SECRET);
         return consumer;
-
     }
-
 }
