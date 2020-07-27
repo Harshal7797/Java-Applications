@@ -55,7 +55,7 @@ Create above components and start applications.
   ## Enhancements 
   1. Allows multiple user to reuse this code with their credential to post, delete and show tweet.
   2. Support search History.
-  3.  Print out user define selected field from Tweet Object.
+  3.  Print out user define selected field from Tweet Object
 
 
 # Java Grep App
