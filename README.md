@@ -53,7 +53,7 @@ Parse user CLI inputs and then calls the corresponding service methods.
 5. `TwitterCLI (Main)`
 Create above components and start applications.
   ## Enhancements 
-  1. Allow multiple user to reuse this code with their credential to post, delete and show tweet.
+  1. Allows multiple user to reuse this code with their credential to post, delete and show tweet.
   2. Support search History.
   3.  Print out user define selected field from Tweet Object.
 
